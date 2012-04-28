@@ -1,0 +1,254 @@
+<!--#include virtual="top.shtml"-->
+<script type=text/javascript>
+	append_title("4G-Live直播系统");
+	window.onload = function() {
+		set_selected_box(1);
+	}	
+</script>
+
+<div class="shadow_box_bottom product_top">
+	<div style="float:left;width:300px;padding-left:10px">
+		<h2>» <a href="#">4G-Live直播系统</a></h2>
+	</div>
+	<div style="float:left;width:688px;text-align:right;padding-top:25px;position:relative">
+		<div style="position:absolute;background-color:#fff;height:50px;width:10px;right:-10px;bottom:-9px"></div>	
+		<a href="#overview" style="margin-right:10px;">概述</a>
+		<a href="#technique" style="margin-right:10px;">技术特点</a>
+		<a href="#composition" style="margin-right:10px;">产品构成</a>
+		<a href="#scene" style="margin-right:10px;">应用场景</a>
+	</div>	
+</div>
+
+<div id="div_content" style="margin-top:55px;background-color:#fff">
+	<div style="width:777px;float:right;background-color:#fff;border-left:1px solid #bbb">
+	
+<div style="width:90%;margin:0 auto;padding-top:10px">
+	<div class="overview"><a name="overview">概述</a></div>
+	<div class="paragraph">
+		随着当前3G 网络的覆盖已越来越广，技术也越来越成熟，以及4G网络试用的逐渐开展,4G网络商用指日可待，移动互联网已经可以给用户提供有足够的信道带宽来传输实时的视音频信号，北京四维通联科技有限公司推出的4G Live现场视音频直播系统依托成熟、可靠的3G 网络技术（4G网络已通过大唐移动TD-LTE测试），提供了一种全新的现场直播手段。
+	</div>
+	<div class="image">
+		<img src="/images/products/image1.png" width="650">
+	</div>
+	<div>同传统的卫星和微波直播手段相比，4G-Live 直播系统具有以下优势：</div>
+	<div>
+		<pre>
+	●   极大降低投入成本：使用成本是传统电视转播车和微波车的三十分之一至六十分之一；
+	●   前期部署更加简易：直播终端可直接挂接在摄像机上，直播终端带扣板电池，无需外接电源；
+	●   现场使用更加便捷：开机即用，使用者无需配置任何参数，所有参数调整都可以在中心端控制；
+	●   拍摄环境适应性强：可深入到转播车无法到达的地区，如海上、山区；
+	●   画质保证：自主知识产权的多信道捆绑技术可有效利用多路无线资源，提供更大带宽；高效的H.264编码技术，可以在
+	    相同带宽下，保证画质更清晰。
+		</pre>
+	</div>
+	<div class="overview"><a name="technique">技术特点</a></div>
+	<div>
+		<pre>
+	●   支持WCDMA、CDMA2000、WiFi、WiMax和TD-LTE等多种制式（C-OFDM可选），采用多信道捆绑技术，提供稳定的广播
+	    视频质量级视频上行链路，实现随时随处的进行现场采访报道和实况直播；
+	●   直播终端采用最先进、效率最高的H.264 AVC High Profile高级图像编码技术，完全满足在固定带宽下实现高清视频传输的要求;
+	    传输码率最高可达1.5Mbps，4G可达6Mbps；
+	●   直播终端支持SDI、CVBS等信号接入，支持SDI嵌入式音频输入、模拟音频立体声输入；直播终端支持双向通话功能；
+	●   直播终端支持远程参数调整，支持文件本地存储、回传功能；
+	●   可根据需要在直播终端上增加GPS模块，可以和GIS系统连接；
+	●   媒体服务器采用Linux 系统，且支持主/备方式，可7X24 小时工作，最大程度保证系统安全；
+	●   每台媒体服务器可同时支持128 路CIF 或64 路D1 的静态接入，保持稳定可靠连接；
+	●   每台录/ 播服务器支持最多监看16 路回传画面，可选择4 路画面同时进行SDI 输出与文件录制；
+	●   从现场拍摄到最终画面输出的传输延迟1-5秒（根据网络环境自动调整）；
+		</pre>	
+	</div>
+	<div class="overview"><a name="composition">产品构成</a></div>
+	<div style="margin-left:50px">
+		<img src="/images/products/image2.png" width="450">
+	</div>
+	<div>
+		四维通联4G Live现场直播系统，由3G直播终端、3G媒体服务器和3G录/播服务器三部分组成。 
+	</div>
+	
+	
+	<div class="overview">
+		<a name="3gbox">1、3G直播终端</a>
+	</div>
+	<div class="paragraph">
+		用于把视频信号转换成视频数据流再发送到3G网络。
+	</div>
+	<div class="paragraph">
+		3G 直播终端需要配合摄像机使用，可以采用P2HD、DVCPro等专业的摄像机，也支持家用型手持DV，传输文件格式为H.264，码率达1500kbps。使用时，用户只需用视音频线连接摄像机和3G 直播终端即可，连接端口包括SDI、复合视频和立体声音频、监听端口、以太网口等，支持包括WCDMA、CDMA2000、TD-LTE、WiMAX、WiFi、Ethernet等网络。
+	</div>
+	<div class="paragraph">
+		3G手机传输终端是单独使用的，利用3G手机的摄像功能，通过客户端软件即可把采集的画面实时传送给3G媒体服务器，传输的文件格式为MPEG4，码率达300kbps，支持采用windows mobile操作系统、苹果操作系统和android操作系统的主流手机。
+	</div>
+	
+	<div style="margin:30px;">
+		<div class="overview"><a name="3gbox1"></a>
+			<a name="3gbox1">● 3G 单卡直播终端</a>
+		</div>
+		
+		<div>
+			<img src="/images/products/3gbox1.png" width="100" style="float:left;margin:10px"/>
+			<div>
+			3G单卡终端是将摄像机送过来的视音频信号，经过采集压缩处理成数字视频信号，通过3G网络发送给3G媒体服务器。
+			<pre>特性：
+  •	  可插一张3G上网卡,支持联通WCDMA和电信EVDO（CDMA2000）网络
+				•	采用H.264 AVC High Profile编码，支持网络自适应的动态编码
+				•	最大传输码率可达1 Mbps
+				•	图像频分辨率最大支持D1（ 720*576@50i） 格式 
+				•	标清SDI/CVBS输入自适应，3.5英寸立体声音频接口
+				•	可选装GPS模块
+				•	多种携带方式设计，可斜背、摄像机外挂
+				•	铝合金外壳，坚固耐用、体积小易于携带方便
+				•	设备尺寸：14cm*14cm*4.4cm
+				•	设备重量：800g（不含电池）</pre>
+			</div>
+		</div>
+	</div>
+
+	<div style="margin:30px;">
+		<div class="overview"><a name="3gbox2"></a>
+			<a name="3gbox2">● 3G 双卡直播终端</a>
+		</div>
+		
+		<div>
+			<img src="/images/products/3gbox2.png" width="50" style="float:left;margin:35px"/>
+			3G双卡终端是将摄像机送过来的视音频信号，经过采集压缩处理成数字视频信号，运用多信道捆绑技术，通过3G网络发送给3G媒体服务器。
+		</div>
+		<pre>特性：
+  •	  可插两张3G上网卡,支持联通WCDMA和电信EVDO混用模式
+  •	  采用H.264 AVC High Profile编码，支持网络自适应的动态编码
+  •	  最大传输码率可达1.5Mbps
+  •	  图像频分辨率最大支持D1（ 720*576@50i） 格式 
+				•	标清SDI/CVBS输入自适应，立体声音频接口
+				•	具有双向通话功能 
+				•	可选装GPS模块
+				•	多种携带方式设计，可斜背、摄像机外挂
+				•	铝合金外壳，坚固耐用、体积小易于携带方便
+				•	设备尺寸：14cm*10.5cm×7.5cm，携带电池尺寸为：14cm*10.5cm*12cm
+				•	设备重量：1100g（不含电池）</pre>
+	</div>
+	
+	<div style="margin:30px;">
+		<div class="overview"><a name="3gbox7"></a>
+			<a name="3gbox7">● 3G 多卡直播终端</a>
+		</div>
+		
+		<div>
+			<img src="/images/products/3gbox7.png" width="100" style="float:left;margin:15px"/>
+			3G多卡终端是将摄像机送过来的视音频信号，经过采集压缩处理成数字视频信号，运用多信道捆绑技术，通过3G网络或其他无线网络（WiFi、WiMax、TD-LTE等）发送给3G媒体服务器。
+			<pre>特性：
+•	最多可插七张3G上网卡,支持联通WCDMA和电信EVDO混用模式
+•	支持WiFi、WiMax、TD-LTE等其他无线网络
+•	采用H.264 AVC High Profile编码，支持网络自适应的动态编码
+•	最大传输码率可达2.5Mbps，4G网络下可达到6Mbps
+				 •	 图像频分辨率最大支持720P（ 1280*720@50i） 格式 
+				 •	 标清SDI/CVBS输入自适应，立体声音频接口
+				 •	 具有双向通话功能 
+				 •	 可选装GPS模块
+				 •	 多种携带方式设计，可斜背、摄像机外挂
+				 •	 铝合金外壳，坚固耐用、体积小易于携带方便
+				 •	 设备尺寸：20cm*14cm×10cm，携带电池尺寸为：20cm*14cm*15cm
+				 •	 设备重量：1500g（不含电池）
+			</pre>
+		</div>
+	</div>
+	
+	<div style="margin:30px;">
+		<div class="overview"><a name="3gbox7"></a>
+			<a name="ipvideo_m">● 3G 手机直播终端</a>
+		</div>
+		
+		<div>
+			<img src="/images/products/ipvideom.png" width="100" style="float:left;margin:15px"/>
+			<div class="paragraph">
+				3G手机视频直播终端可以使用Windows Mobile 6.5及以上版本、Android2.1及以上版和Apple IOS4.0及以上版本的智能手机，需要在直播手机上安装对应各自操作系统的手机直播客户端软件。
+			</div>
+			<div class="paragraph">
+				用户利用3G手机的摄像功能，通过安装在3G手机上的客户端软件把采集的画面通过3G网络实时传送给3G媒体服务器，再转发到3G录播服务器上进行处理。
+			</div>
+			<pre>
+				•	实时拍摄现场视音频，通过3G网络发送给3G媒体服务器
+				•	支持Windows Mobile，Apple iPhone，Android等多种平台下的3G手机
+				•	使用MPEG-4压缩格式，最大传输码率可达300kbps
+				•	图像分辨率为CIF ( 352×288像素 )
+				•	视频帧率最大可以到15帧
+				•	实时双向通话
+				通过客户端直播软件也可以将文件和图片发送到媒体服务器上进行处理
+			</pre>
+		</div>
+	</div>
+
+
+	<div class="overview">
+		<a name="gateway">2、3G媒体服务器</a>
+	</div>
+	<div class="paragraph">
+		用于接收3G直播终端（单卡、双卡、多卡和手机终端）实时回传的视频流，并将视频流通过网络转发给3G录播服务器或其他视频客户端。
+	</div>
+	<div class="news_image">
+		<img src="/images/products/gateway.png"/>
+	</div>
+	<div class="paragraph">
+		3G传输终端静态接入（保持视频流始终连接和转发）时，3G媒体服务器支持至少128路CIF或64路D1的稳定可靠连接，如果采用动态连接方式，可支持128路D1的连接管理和转发；为了支持大规模系统的应用，3G媒体服务器还支持集群管理。
+	</div>
+	<div class="paragraph">
+		3G直播终端静态接入（保持视频流始终连接和转发）时，3G媒体服务器支持至少128路CIF或64路D1的稳定可靠连接，如果采用动态连接方式，可支持128路D1的连接管理和转发；为了支持大规模系统的应用，3G媒体服务器还支持集群管理。
+	</div>
+	<div class="paragraph">
+		在具体部署应用上，3G媒体服务器可以直接部署在演播室、电视台或电信运营商的机房。
+	</div>
+	<pre>
+      功能特性：
+	•	实现对3G直播终端（单卡、双卡、多卡和手机终端）回传的视音频信号的接收
+	•	Linux操作系统，保证7X24小时系统稳定运行
+	•	部署四维通联Smartvision平台管理软件，用于配置、管理系统中的设备数量、端口参数、IP地址、编解码格式等信息
+	•	内置HTTP配置服务，可实现远程监控
+	•	提供内外网2个10/100/1000M自适应网口，自带防火墙
+	•	支持主、备服务器自动切换，切换时间小于1秒</pre>
+	<div class="news_image">
+		<img src="/images/products/image3.png" width="500"/>
+	</div>
+	
+	<div class="overview" style="margin-top:20px">
+		<a name="nvr">3、3G录播服务器</a>
+	</div>
+	<div class="paragraph">
+		用于接收3G媒体服务器的数据包，然后直接输出供播出使用的SDI信号。
+	</div>
+	<div class="paragraph">
+		3G录播服务器支持4路SDI信号同时输出，并可以监看3G媒体服务器接收的视频信号，支持多达16路信号源，还可以直接把指定的监看信号回录成文件保存在本地硬盘，供后期制作使用。
+	</div>
+	<pre>
+  	功能特性：
+	•	 部署四维通联SmartVision 3G录/播软件，用于监看3G媒体服务器接收的各路信号，并针对各路信号进行录制或播出的操作
+	•	 配备广播级视音频IO板卡，支持SDI信号输出，每台3G录/播服务器可支持4路SDI信号输出
+	•	 支持将3G媒体服务器接收的视音频信号进行文件化录制
+	•	 支持对采访现场的移动终端进行远程参数调整功能，根据网络环境实时调整现场回传质量
+	•	通过3G无线网络直接远程调节3G传输终端的参数
+	•	监看每一个传输终端的传输码流等信息
+	•	和3G终端实现双向通话
+	•	查看3G传输终端的GPS地理位置信息
+	</pre>
+	
+	<div class="overview"><a name="scene">应用场景</a></div>
+	<div style="margin-left:30px">
+	　　	<div class="overview">新闻直播</div>
+		<pre>
+		●   民生新闻。设备便携性强，部署方便，满足突发新闻报道和暗访需求
+		●   赛事转播。满足赛场众多，观众多视角拍摄等需求
+		●   重大活动的多角度实时报道。省去高额卫星租用费，提高了报道时效性</pre>
+	　　		<div class="overview">实时监控</div>
+		<pre>
+		●   部队演习，士兵可携带手机、摄像机拍摄，通过专线传输 ,总部实时进行现场监控并同步录制。
+		●   交通、消防、安防等，解决现场不方便部署固定线路的问题，如城市路况监控，煤矿地下作业安全监控等。</pre>
+	　　	<div class="overview">视频会议</div>
+		<pre>
+		●   利用运营商稳定的传输线路构建一套视频会议系统，实现高质量的视音频数据的实时传输，协同多个终端回传画面进行互动、交流。</pre>
+	　　 <div class="overview">现场取证</div>
+		<pre>
+		●   保险行业，为保险公司处理交通事故定损提供视频判断依据，车主可利用随身携带的手机进行取证，画面回传后进行定损、赔偿，
+		     提高效率，节省业务员出现场的成本。
+		●   城管取证，对于交通违法行为，如违章停车，可利用手机进行现场拍摄取证。
+		</pre>
+	</div>
+</div>
+</div>
+<!--#include virtual="bottom.shtml"-->

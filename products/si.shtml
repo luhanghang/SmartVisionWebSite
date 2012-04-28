@@ -1,0 +1,84 @@
+<!--#include virtual="top.shtml"-->
+<script type=text/javascript>
+	append_title("系统集成");
+	window.onload = function() {
+		set_selected_box(5);
+	}	
+</script>
+
+<div class="shadow_box_bottom product_top">
+	<div style="float:left;width:300px;padding-left:10px">
+		<h2>» <a href="#">系统集成</a></h2>
+	</div>
+	<div style="float:left;width:688px;text-align:right;padding-top:25px;position:relative">
+		<div style="position:absolute;background-color:#fff;height:50px;width:10px;right:-10px;bottom:-25px"></div>	
+	</div>	
+</div>
+
+<div id="div_content" style="margin-top:55px;background-color:#fff">
+	<div style="width:777px;float:right;background-color:#fff;border-left:1px solid #bbb">
+	
+<div style="width:90%;margin:0 auto;padding-top:10px">
+	<div class="paragraph">
+		北京四维通联科技有限公司利用自身科技领先、技术全面的优势，陆续推出符合市场发展的产品和解决方案，同时也承揽大型安防监控系统、应急救援指挥系统、计算机网络系统集成、通信系统工程集成及施工，已先后成为多家国内外知名的安防产品厂家和通信厂家建立了良好的合作和代理关系。公司为客户提供性能卓越的产品、高效完美的服务同时，更是以提供功能完备的解决方案及迅捷可靠的技术支持为广大客户所青睐。
+	</div>
+	
+	
+	<h3><a name="ss">安防监控工程</a></h3>	
+	<div class="paragraph">
+		四维通联公司利用在视频监控领域业内领先的自主网络视频监控产品和技术，可以根据不同行业安防监控的不同需求，推出符合用户要求的安防监控一揽子解决方案。包括：
+	</div>
+	<ul>
+		<li>3G无线视频监控</li>
+		<li>楼宇、校园、厂区、监狱、旅游景点安防监控</li>
+		<li>在建工地远程视频监控</li>
+		<li>变电站无人值守监控系统</li>
+		<li>法庭远程庭审及录播系统</li>
+		<li>电子考场远程监控系统</li>
+		<li>远程教学直播系统</li>
+	</ul>
+	等等
+	
+	<h3><a name="emergency">应急指挥系统集成</a></h3>	
+	<div class="paragraph">
+		四维通联公司针对应急指挥系统推出的3G视频终端、3G手机终端、COFDM无线图传、无线移动网桥、卫星动中通等设备，可以为应急通信指挥系统提供一个几乎涵盖所有无线通信方式的多媒体调度的解决方案。公司除了应急指挥设备的生产与销售，同时还进行应急通信指挥车和应急通信指挥中心的设计与建设。凭借强大的技术研发能力，形成以3G传输、无线动中通、卫星通信传输系统为基础的立体通信解决方案，并成功应用于部队、武警、公安的侦察、反恐、警卫、危机处理、抢险救灾等各种任务中，同时在国家各级应急通信、指挥、救援体系中得到大量使用。
+	</div>
+	<div class="paragraph">
+		四维通联公司提供的应急指挥系统建设方案包括：
+	</div>
+	<ul>
+		<li>3G视频直播系统</li>
+		<li>无线动中通系统</li>
+		<li>应急卫星通信系统</li>
+		<li>指挥车改造 </li>
+		<li>指挥所（中心）建设</li>
+	</ul>
+	
+	<h3><a name="network">计算机网络系统集成</a></h3>	
+	<div class="paragraph">
+		北京四维通联科技有限公司从事IT系统集成、智能化弱电工程、机房工程,拥有一支经验丰富，技术专业的售前售后服务队伍，并建立了市场销售、技术支持、项目实施全方位配套的服务体系。四维通联公司作为解决方案供应商，立足于用户，专注了解用户需求，致力于为每位用户提供最适合的行业解决方案及专业服务。四维通联发展目标是致力于根据客户不同特点与特殊需求，以优质的专业技术、丰富的项目实施经验及与众多厂商的良好合作，向用户提供一套包括系统设备、软件、开发工具、技术支持及售后服务等完整的最佳解决方案。作为解决方案供应商，四维通联公司与国内外产品厂商一直保持良好的合作关系。包括HP、DELL、SUN、IBM、Cisco、华为、H3C、APC等，公司的业务开展得到各厂商支持。
+	</div>
+	<div class="paragraph">
+		四维通联公司提供的计算机网络系统集成包括：
+	</div>
+	<ul>
+		<li>计算机网络工程</li>
+		<li>综合布线工程</li>
+		<li>电子机房工程</li>
+	</ul>
+	<h3><a name="com">通信系统工程</a></h3>	
+	<div class="paragraph">
+		北京四维通联科技有限公司同时从事通信系统集成及施工,代理国内外知名厂家光传输设备、宽带无线接入设备、卫星通信设备等，拥有经验丰富的通信工程施工队伍，为用户提供完善的整体解决方案。
+	</div>
+	<ul>
+		<li>SDH光传输系统工程</li>
+		<li>微波通信系统工程</li>
+		<li>卫星通信系统工程</li>
+	</ul>
+	
+	
+	
+	
+	</div>
+</div>
+<!--#include virtual="bottom.shtml"-->

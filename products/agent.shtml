@@ -1,0 +1,134 @@
+<!--#include virtual="top.shtml"-->
+<script type=text/javascript>
+	append_title("设备代理");
+	window.onload = function() {
+		set_selected_box(6);
+	}	
+</script>
+
+<div class="shadow_box_bottom product_top">
+	<div style="float:left;width:300px;padding-left:10px">
+		<h2>» <a href="#">设备代理</a></h2>
+	</div>
+	<div style="float:left;width:688px;text-align:right;padding-top:25px;position:relative">
+		<div style="position:absolute;background-color:#fff;height:50px;width:10px;right:-10px;bottom:-25px"></div>	
+	</div>	
+</div>
+
+<div id="div_content" style="margin-top:55px;background-color:#fff">
+	<div style="width:777px;float:right;background-color:#fff;border-left:1px solid #bbb">
+	
+<div style="width:90%;margin:0 auto;padding-top:10px">
+	<h3><a name="emergency">应急救援装备</a></h3>	
+	<div class="paragraph">
+		北京四维通联科技有限公司在从事应急救援指挥系统设备研发和系统集成的同时，还代理销售众多国际知名品牌专业应急救援装备，产品包括救生装备、应急通讯装备、破拆装备、侦检装备、个人防护装备等系列产品， 广泛应用于矿山、非煤矿山、危险化学品、消防、交通、地震、军事等领域的应急事故救援。
+	</div>
+	<div class="news_image">
+		<img src="/images/products/agents-1.png" width="100%"/>
+	</div>
+	<div class="overview">
+		主要代理设备有：
+	</div>
+	<ul>
+		<li>侦检设备：生命探测仪、爆炸物探测仪、气体检测仪、红外热像仪、防爆照相机、防爆摄像机、激光测距仪、全站仪等</li>
+		<li>救援工具：扩张器、剪切钳、顶杆、液压锯、动力泵、救援三角架、起重气垫等</li>
+		<li>救生装备：救生应急包、防坠落、安全绳、安全带、应急灯、救援帐篷等</li>
+		<li>应急通讯装备：防爆对讲机、海事卫星电话、GPS、无线音视频通信设备等</li>
+		<li>个人防护设备：呼吸器（氧气呼吸器、空气呼吸器）、身体防护（重型防护服、个人防护服、避火服）、肢体防护（防护鞋、防静电鞋、防护手套）、头部面部防护（防护面罩、护目镜、口罩）等。</li>
+	</ul>
+	<div class="overview">
+		主要代理品牌和产品有：
+	</div>
+	<ul>
+		<li>斯博瑞安（巴固）个人防护装备</li>
+		<li>诺斯防护服</li>
+		<li>德尔格drager呼吸器</li>
+		<li>Lifelocater（莱福）雷达式生命探测仪</li>
+		<li>英思科气体检测仪</li>
+		<li>LUKAS液压破拆工具等</li>
+	</ul>
+	
+	
+	<h3><a name="safety">安全生产监督及职业卫生监察设备</a></h3>	
+	<div class="paragraph" style="margin-bottom:5px">
+		北京四维通联科技有限公司与国内外知名企业强强合作，为安全生产监督及职业卫生监察部门提供最先进的现场和实验室检测仪器与职业卫生检测仪器产品和服务。
+	</div>
+	<div class="overview">
+		公司现主要代理销售品牌有：
+	</div>
+	<ul>
+		<li>美国安捷伦生命科学与化学分析测试设备</li>
+		<li>美国inficon便携式气相色谱仪、便携式气质联用仪</li>
+		<li>北京普析通用光谱仪、色谱仪、质谱仪</li>
+		<li>美国哈希水质分析仪</li>
+		<li>美国SENSIDYNE公司空气及粉尘采样仪</li>
+		<li>美国QUEST手传振动测定仪</li>
+		<li>北京劳保所有毒有害检测箱</li>
+		<li>瑞士莱卡leica精密测量系统</li>
+	</ul>	
+	
+	<h3><a name="nase">NASE主机防护系统</a></h3>	
+	<div class="paragraph" style="margin-bottom:5px">
+		四维通联公司与诺斯恒信公司合作，推出服务器安全防护系统，对于政府，企业等的服务器和终端可提供高可靠性的防护，完全国产，并在国内众多重要政府部门，管理机构，军队系统和大企业的核心信息系统上安装运行。
+	</div>
+	<h4>功能亮点：</h4>
+	<div class="paragraph" style="margin-bottom:5px">
+		1、NASE 是一套全新的主机安全解决方案，涵盖了操作系统安全加固、应用防护以及安全主机的集中管理，完全不同于现有的杀毒软件、防火墙、网关、入侵检测及传统的操作系统加固软件。
+	</div>
+	<div class="paragraph" style="margin-bottom:5px">
+		防火墙、杀毒软件、网关等常规安全产品主要是事前防御、事后查杀，一旦其被黑客\病毒突破，攻击者将可以在目标计算机上为所欲为。与之不同的是如果有NASE 产品，由于NASE采用内核级保护手段，即使黑客\病毒通过各种手段突破了防火墙等常规安全产品进入了服务器，他们的所有侵害行为也会被NASE 的安全策略所限制，使其无法破坏操作系统、篡改网站、窃取或非法删除数据等。对于目前不少政府部门、军队、企事业单位经常遇到的服务器操作系统瘫痪、网站被黑被篡改、应用系统（例如OA 办公系统、邮件系统等）瘫痪、重要机密数据被窃取或删除等安全问题有强大的防护能力，从而杜绝黑客/病毒对服务器和终端造成的侵害，提供一个高安全性的使用环境。
+	</div>
+	<div class="paragraph" style="margin-bottom:5px">
+		2、NASE 符合《中国计算机信息系统等级化保护标准》（简称“等保”）的三级标准要求、分级保护标准要求的三权分立体系。
+	</div>
+	<div class="paragraph" style="margin-bottom:5px">
+		国家2007 年6 月颁布的《中国计算机信息系统等级化保护标准》，该标准一共分五个级别，五级为最高级别，第四、五级国内暂时还没有完整的技术实现，因为第四、五两级都需要自有知识产权的芯片和操作系统来支撑，而我国目前还没有，目前国内能自主实现的最高级别为三级。简单的说NASE 能够使受保护主机达到国家等级保护标准的三级要求。
+	</div>
+	<div class="paragraph" style="margin-bottom:5px">
+		3、免疫已知及未知病毒，抵御各种攻击手段，杜绝攻击后的侵害。
+	</div>
+	<div class="paragraph" style="margin-bottom:5px">
+		由于目前政府和军队等部门实行内外网物理隔离，单位的内网和因特网之间是完全隔绝的两个网络，这就使得处于内网的计算机不能及时打补丁修复漏洞，杀毒软件的病毒特征库也不能及时更新无法发现新病毒等等，造成内网的计算机经常处于高风险或带“病”的工作状态，容易遭到病毒攻击并通过未修复的漏洞迅速蔓延。NASE 无须依赖特征库，不管系统中存在什么样的漏洞、应用安全隐患等，NASE 的使用可以使上述问题的解决得到事半功倍的效果。
+	</div>
+	<h4>NASE 的特色：</h4>
+	<div class="paragraph" style="margin-bottom:5px">
+		1、我们是国内该项技术的重要提供者和拥有者。
+	</div>
+	<div class="paragraph" style="margin-bottom:5px">
+		目前全球仅有的几家公司可以提供该项技术，另外几家公司几乎均是美、韩等国的。根据2003 年中央办公厅发的27 号文件《关于加强信息安全保障工作的意见》和2004 年公安部、国信办、国密局、保密局联合颁发的66 号文件《关于信息安全等级保护工作的实施意见》、2007 年公通安43 号文件《关于印发信息安全等级保护管理办法的通知》、公信安861 号文件《关于开展全国重要信息系统安全等级保护定级工作的通知》中明确规定涉及国防安全的政府机关、军队和企事业单位不建议使用国外安全软件，因此国外的产品在2003 年后开始逐步退出了中国市场。
+	</div>
+	<div class="paragraph" style="margin-bottom:5px">
+		2、我们支持目前市面上主流的操作系统。
+	</div>
+	<div class="paragraph" style="margin-bottom:5px">
+		NASE 可支持微软Windows 系列操作系统、Sun 的Solaris 操作系统、IBM 的AIX、HP(惠普)Unix 和其他开放的Linux 操作系统。适用范围广，可广泛应用于各政府部门、企事业单位对服务器的全面防护加固，可全面提高政府、企业的计算机安全保护等级。
+	</div>
+	<div class="paragraph" style="margin-bottom:5px">
+		3、我们的产品可保护网络中的服务器和终端。
+	</div>
+	<div class="paragraph" style="margin-bottom:5px">
+		一个单位、部门的网络中最重要的就是服务器，服务器相当于人的心脏。所有的办公数据传输、电子邮件收发等等都需要通过服务器来进行，黑客/间谍/病毒攻击的主要是服务器，通过各种手段攻击服务器来达到篡改网站内容、窃取机密、造成网络瘫痪的目的。NASE 可以很好的为服务器及终端电脑提供一个高可靠性的安全防护。
+	</div>
+	<h4>NASE 的特色：</h4>
+	<ul>
+		<li>公安部计算机信息系统安全专用产品销售许可证</li>
+		<li>国家保密局涉密信息系统产品检测证书</li>
+		<li>军用信息安全产品认证证书</li>
+		<li>国家版权局计算机软件著作权登记证书</li>
+	</ul>
+	<h4>参考客户：</h4>
+	<ul>
+		<li>中国证券监督管理委员会、中国银行业监督管理委员会</li>
+		<li>金融保险：中国国际金融有限公司、中国人寿保险有限公司、中国人民财产保险有限公司</li>
+		<li>航天：航天科技集团二院、航天科技集团五院</li>
+		<li>国家环保部、国家税务总局、国家工商总局、国家海关总署</li>
+		<li>上海世博会、山西电视台</li>
+		<li>法院：北京市高法、北京市一中院</li>
+		<li>政府：北京市政府、湖南省委、武汉市政府、青岛市政府、辽宁省公安厅</li>
+		<li>军队：武警总部机要局、中国军事科学院、总参56所</li>
+		<li>烟草：湖南中烟常德卷烟厂</li>
+	</ul>
+	
+	</div>
+</div>
+<!--#include virtual="bottom.shtml"-->

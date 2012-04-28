@@ -1,0 +1,41 @@
+<!--#include virtual="../includes/top.html"-->
+<script type="text/javascript">
+	menu_item_selected('5');
+	append_title("解决方案");
+</script>
+
+<style type="text/css">
+	
+</style>
+
+<div style="background-color:#fff;"><h2>» <a href="#">解决方案</a></h2></div>
+<div id="div_content" style="background-color:#fff;height:500px">
+	<div style="margin-left:80px;margin-top:50px">
+		<a href="/download/solution/3G_News_Broadcast.pdf" target="_blank">
+			<div class="pdf">
+				<img src="/images/pdf.png">
+				<div>3G新闻直播系统方案</div>
+			</div>
+		</a>
+		<a href="/download/solution/3G_Mobile_Enforce_Law.pdf" target="_blank">
+			<div class="pdf">
+				<img src="/images/pdf.png">
+				<div>3G无线视频移动执法方案</div>
+			</div>
+		</a>
+		<a href="/download/solution/3G_Police.pdf" target="_blank">
+			<div class="pdf">
+				<img src="/images/pdf.png">
+				<div>公安系统3G视频移动执法方案</div>
+			</div>
+		</a>
+		<a href="/download/solution/3G_Emergency.pdf" target="_blank">
+			<div class="pdf">
+				<img src="/images/pdf.png">
+				<div>应急指挥通信系统介绍</div>
+			</div>
+		</a>
+	</div>
+</div>
+
+<!--#include virtual="../includes/bottom.html"-->

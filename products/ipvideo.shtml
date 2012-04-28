@@ -1,0 +1,261 @@
+<!--#include virtual="top.shtml"-->
+<script type=text/javascript>
+	append_title("网络视频监控系统");
+	window.onload = function() {
+		set_selected_box(3);
+	}	
+</script>
+
+<div class="shadow_box_bottom product_top">
+	<div style="float:left;width:300px;padding-left:10px">
+		<h2>» <a href="#">网络视频监控系统</a></h2>
+	</div>
+	<div style="float:left;width:688px;text-align:right;padding-top:25px;position:relative">
+		<div style="position:absolute;background-color:#fff;height:50px;width:10px;right:-10px;bottom:-25px"></div>	
+	</div>	
+</div>
+
+<div id="div_content" style="margin-top:55px;background-color:#fff">
+	<div style="width:777px;float:right;background-color:#fff;border-left:1px solid #bbb">
+	
+<div style="width:90%;margin:0 auto;padding-top:10px">
+	<div class="paragraph">
+		从2002年公司成立起，北京四维通联科技有限公司就充分认识到视频、语音、数据集成在一起基于宽带网的三网合一监控产品的市场前景，率先推出了基于TCP/IP协议的网络视频监控系统解决方案—SmartVision网络视频监控系统，可广泛应用于远程视频监控、远程视频会议、远程教学、远程医疗等各种网络多媒体应用领域。
+	</div>
+	<div class="paragraph">
+		四维通联公司是国内最早推出自主产权的网络视频编解码器的厂家之一，多年来一直追随国际领先的视频压缩技术和嵌入式技术的发展，陆续推出基于Mpeg4、Mpeg2和H.264编码格式的网络视频服务器，特别是随着H.264编码技术成熟，四维通联推出的基于H.264 High Profile技术的SV系列网络视频编解码器，可以保证在较低带宽上提供高清图像传输；同时推出用于构建网络摄像机的高清编码器模块，推出自主品牌的网络摄像机。目前上述设备已经广泛的应用于3G视频直播系统、应急指挥调度系统、网络视频监控、网络视频会议等领域。
+	</div>
+	<div class="paragraph">
+		同时，四维通联公司以多年行业经验为基础，发布IP-Video 网络视频监控管理软件平台，以全新理念和架构为客户解决基于IP网络的视频监控、多媒体调度、视频会议之需求。平台系统为开放式架构设计，具有为众多品牌前端设备提供便捷开发集成的能力，具有灵活性、可扩展性和前瞻性三大特性，功能强大、技术先进，但又易于使用、稳定可靠且久经考验。
+	</div>
+	<div class="news_image">
+		<img src="/images/products/ipvideo-1.png" width="600"/>
+	</div>	
+	<div style="margin-top:30px">四维通联网络视频监控产品包括：</div>	
+	<div style="margin-left:20px">
+		<div>网络视频编码器</div>
+		<ul>
+			<li>高清网络视频编解码器：SV 4000系列</li>
+			<li>标清网络视频编解码器：SV 2000系列</li>
+		</ul>	
+		<div>网络摄像机</div>
+		<ul>
+			<li>高清1080P网络摄像机：SV5000系列</li>
+			<li>高清720P网络摄像机：SV3000系列</li>
+		</ul>
+		<div>网络视频监控管理平台：IP-Video Server 4.0</div>
+		<div>H．323网络高清视频会议终端：SV6000系列</div>
+	</div>
+	
+	<h3><a name="encoder">网络视频编码器</a></h3>
+	<h4><a name="sv4000">高清网络视频编码器</a></h4>
+	
+	<div style="margin-left:20px">
+		<div class="overview">产品概述</div>
+		<div class="paragraph">
+			SV4000系列是一款嵌入式的1080P全高清网络视频编解码，基于H.264标准压缩，它通过HDMI，VGA，YPbPr，CVBS等接口输入视频信号，支持720P/50P、720P/60P、1080i/50i、1080i/60i、1080P/30P等格式实时编码，支持报警、音频、SD卡等接口。适用于用于多媒体录播系统、高清视频传输系统、高清视频监控、高清视频会议等应用。
+		</div>
+		<div class="news_image">
+			<img src="/images/products/sv4000-1u.png" width="300"/>
+			<div class="italic">1U机箱型设备</div>
+		</div>
+		<div class="news_image">
+			<img src="/images/products/sv4000-normal.png" width="300"/>
+			<div class="italic">独立机箱式设备</div>
+		</div>
+		<div class="overview">产品特点</div>
+		<div class="paragraph">
+			<b>高清画质</b> - 采用标准的H.264压缩算法，支持到High Profile up to Level 4.1。通过对高层算法的实现，使得产品不仅能够满足一般性的视频监控需求，同时也可以满足广播级的高清视频的传输需求，传输画质可支持1080P/1080i/720P多种格式。
+		</div>
+		<div class="paragraph">
+			<b>双流功能</b> - 可根据用户的网络情况及其他的部署计划对一路视频同时生成两路不同的码流，如一路高清视频用于本地局域网传输，另一路标清视频用于公网传输或一路高清视频用于实时浏览，另一路不同速率或分辨率的码流用于存储。
+		</div>
+		<div class="paragraph">
+			<b>接口丰富</b> - 拥用丰富的多媒体接口，设备上既可提供HDMI、SDI、VGA、YPbPr、CVBS等多种视频接口,同时还提供音频，开关量，串口等相关接口。
+		</div>
+		<div class="paragraph">
+			<b>超低功耗</b> - 采用超低功耗设计，即使实现1080i的实时高清编码，其核心压缩芯片的功耗也不会超过500mw，与一般的DSP相比，不到十分之一。
+		</div>
+		<div class="paragraph">
+			<b>稳定可靠</b> - 采用嵌入式架构，系统运行稳定，可保证7*24小时连续工作。独特的嵌入式操作系统还可以保证设备免受病毒的侵入。
+		</div>
+	</div>
+	
+	<h4 style="margin-top:30px"><a name="sv2000">标清网络视频编码器</a></h4>
+	
+	<div style="margin-left:20px">
+		<div class="overview">产品概述</div>
+		<div class="paragraph">
+			SV2000系列标清网络视频编解码器集音视频采集、压缩编码、网络传输、客户端远程访问控制、输入输出控制等功能于一体，采用最新的H.264压缩编码和解码，单板最大时支持4路D1格式的视频编码和1路D1视频解码，同时带1路双向音频和硬盘接口，可以在IP网络上以每秒25(PAL)幅画面传送多路高质量 Full D1图像，并可实时监听远距离声音并进行对讲，也可通过RS232/485串口及网络远程控制现场的云台/镜头和其他设备，可广泛应用于楼宇，公安，交通等安防领域。
+		</div>
+		<div class="news_image">
+			<img src="/images/products/sv2000-1.png" width="200"/><img src="/images/products/sv2000-2.png" width="200"/>
+			<div class="italic">小机箱形式（1-2路视频输入）</div>
+		</div>
+		<div class="news_image">
+			<img src="/images/products/sv2000-3.png" width="300"/>
+			<div class="italic">大机箱形式（4路视频输入）</div>
+		</div>
+		<div class="overview">产品特点</div>
+		<div class="paragraph">
+			<b>高清画质</b> - 采用标准的H.264压缩算法，支持High Profile up to Level 4.1。算法支持I/P帧、AC/DC预测、4运动矢量、无限制运动矢量、CBR/VBR码率控制等多种特性，适应广泛的带宽，提供改进的低码率视频质量，可以为安防系统提供完美的图像数据。
+		</div>
+		<div class="paragraph">
+			<b>多路功能</b> - 业界首推多路D1编解码器，单机最大支持4路D1编码和1路D1解码，同时带1路双向音频，高集成度，极大地节约用户投资。
+		</div>
+		<div class="paragraph">
+			<b>网络容错</b> - 拥用本地存储功能，当网络出现异常时，系统可将数据存储在本地，当网络故障恢复后，后端管理系统可由前端设备下载丢失的数据，极大的提高了数据的安全性。
+		</div>
+		<div class="paragraph">
+			<b>超低功耗</b> - 采用超低功耗设计，其核心压缩芯片的功耗不会超过500mw，与一般的DSP相比，不到十分之一。
+		</div>
+		<div class="paragraph">
+			<b>实时性好</b> - 压缩和解压实时性好，编解码总延时小于150ms，非常适合安防监控领域使用。
+		</div>
+		<div class="paragraph">
+			<b>稳定可靠</b> - 采用嵌入式架构，系统运行稳定，可保证7*24小时连续工作。独特的嵌入式操作系统还可以保证设备免受病毒的侵入。
+		</div>
+	</div>
+	
+	<h3><a name="ipcamera">网络摄像机</a></h3>
+	<h4><a name="sv5000">高清1080P网络摄像机：SV5000系列</a></h4>
+	<div style="width:90%;margin:0 auto">
+		<table width="100%" cellpadding="5" cellspacing="0">
+			<tr>
+				<td class="top">产品图片</td>
+				<td class="top">产品名称</td>
+				<td class="top">型号</td>
+				<td class="top right">产品描述</td>
+			</tr>
+			<tr>
+				<td><img src="/images/products/sv5012.png" width="50"/></td>
+				<td>2百万像素网络半球摄像机</td>
+				<td>SV5012</td>
+				<td class="right">1/3寸CMOS传感器，分辨率1080P，H.264压缩编码，专业型高清网络摄像机</td>
+			</tr>
+			<tr>
+				<td><img src="/images/products/sv5022.png" width="80"/></td>
+				<td>2百万像素网络枪式摄像机</td>
+				<td>SV5022</td>
+				<td class="right">1/3寸CMOS传感器，分辨率1080P，H.264压缩编码，专业型高清网络摄像机</td>
+			</tr>
+			<tr>
+				<td><img src="/images/products/sv5025.png" width="80"/></td>
+				<td>5百万像素网络枪式摄像机</td>
+				<td>SV5025</td>
+				<td class="right">2/3寸CCD传感器，分辨率500万像素，专业型高清网络摄像机</td>
+			</tr>
+			<tr>
+				<td><img src="/images/products/sv5032.png" width="50"/></td>
+				<td>2百万像素高速球形网络摄像机</td>
+				<td>SV5032</td>
+				<td class="right">1/3寸CMOS传感器，分辨率1080P/30，专业型高清网络摄像机</td>
+			</tr>
+			<tr>
+				<td><img src="/images/products/sv5032M.png" width="50"/></td>
+				<td>2百万像素Mini高速球形网络摄像机</td>
+				<td>SV5032M</td>
+				<td class="right">1/3寸CMOS传感器，分辨率1080P30，专业型高清网络摄像机</td>
+			</tr>
+		</table>
+	</div>
+	<h4 style="margin-top:20px;"><a name="sv3000">高清720P网络摄像机：SV3000系列</a></h4>
+	<div style="width:90%;margin:0 auto">
+		<table width="100%" cellpadding="5" cellspacing="0">
+			<tr>
+				<td class="top">产品图片</td>
+				<td class="top">产品名称</td>
+				<td class="top">型号</td>
+				<td class="top right">产品描述</td>
+			</tr>
+			<tr>
+				<td><img src="/images/products/sv5012.png" width="50"/></td>
+				<td>百万像素网络半球摄像机</td>
+				<td>SV3011</td>
+				<td class="right">1/3寸CMOS传感器，分辨率720P，H.264压缩编码，经济型高清网络摄像机，</td>
+			</tr>
+			<tr>
+				<td><img src="/images/products/sv5025.png" width="80"/></td>
+				<td>百万像素网络枪式摄像机</td>
+				<td>SV3021</td>
+				<td class="right">1/3寸CMOS传感器，分辨率720P，H.264压缩编码，经济型高清网络摄像机</td>
+			</tr>
+			<tr>
+				<td><img src="/images/products/sv5032.png" width="50"/></td>
+				<td>百万像素高速球形网络摄像机</td>
+				<td>SV3031</td>
+				<td class="right">2/3寸CCD传感器，分辨率720P30/60，经济型高清网络摄像机</td>
+			</tr>
+		</table>
+	</div>
+	
+	<h3><a name="ipvideo">IP-Video 4.0 网络视频监控管理软件平台</a></h3>
+	<div class="paragraph">
+		四维通联公司以多年行业经验为基础，发布IP-Video网络视频监控管理系统平台，以全新理念和架构为客户解决基于IP网络的视频监控、多媒体调度、视频会议之需求。平台系统为开放式架构设计，具有为众多品牌前端设备提供便捷开发集成的能力，具有灵活性、可扩展性和前瞻性三大特性，功能强大、技术先进，但又易于使用、稳定可靠且久经考验。
+	</div>
+	<div class="paragraph">
+		IP-VIDEO Server V4.0软件版本是在V3.0软件版本基础上，根据调整的功能配置界面，对这个配置过程进行描述。
+	</div>
+	<div class="news_image">
+		<img src="/images/products/ipvideo.png" width="500"/>
+	</div>
+	<div class="paragraph" style="margin-top:10px">该软件版本主要功能如下：</div>
+	<ol>
+		<li>基于B/S结构的软件模式；</li>
+		<li>支持SV编解码器和网络摄像机的局域网、专网、广域网和3G网络任意形式的接入；</li>
+		<li>支持市面上主流厂家的网络视频编码器、网络摄像机产品的接入</li>
+		<li>支持网络客户端局域网、专网和广域网的任意形式的访问；</li>
+		<li>支持网络上任意地方实现电视墙监控和切换管理；</li>
+		<li>提供网络多用户IE界面下多画面实时图像监控；</li>
+		<li>提供网络硬盘录像功能，支持录像计划和报警录像方式，提供网络录像和回放功能；</li>
+		<li>提供网络客户端本地录像和抓拍功能；</li>
+		<li>可实现报警采集、报警录像和报警联动（声、光、电和控制）；</li>
+		<li>支持任意厂家监控设备（摄像机、矩阵、画面分割器、报警和数据采集器）的在一个系统中的任意接入，可实现已有模拟监控系统或设备同网络管理的完美结合。</li>
+		<li>提供多层电子地图生成功能，实现网络监控时电子地图信息和图像监控的完美配合；</li>
+		<li>支持用户定制任意监视窗口轮巡查看方案，方便监控；</li>
+		<li>支持网络视频流、音频流管理采用单播、组播或TCP任意方式；</li>
+		<li>科学设置用户权限，保证系统的用户权限论证和控制管理；</li>
+		<li>支持客户端多画面同时监视二路/四路/六路/八路/九路/16路监控点；</li>
+		<li>支持多画面计算机显示器的全屏监视；</li>
+		<li>支持视频运动告警；</li>
+		<li>支持报警采集器，允许多报警量触发告警；</li>
+		<li>提供告警、录像、抓拍、监控点分布的查询功能；</li>
+		<li>提供在线设备参数修改功能；</li>
+		<li>支持网络用户同前端监控点进行监听和对讲，实现监控和指挥调度的功能；</li>
+		<li>服务器录像文件定时或自动清理；</li>
+		<li>完善的帮助系统；</li>
+	</ol>
+	<h3><a name="meeting">高清视频会议终端</a></h3>
+	<div class="paragraph">
+		SV6000系列高清编解码器是一个支持H.323协议的标准高清视频会议终端，可以同市场上主流视讯厂家的MCU多点会议管理平台配套使用，可以在最大程度上满足用户构建高品质、高性能、低成本的视频通讯平台的需要。
+	</div>
+	<div class="news_image">
+		<img src="/images/products/sv6000-1.png" width="300"/>
+	</div>
+	<div class="news_image">
+		<img src="/images/products/sv6000-2.png" width="300"/>
+	</div>
+	<div class="paragraph">
+		SV6000系列高清编解码器提供高达1080P60的全高清图像质量，多声道的高清音频效果，以及高达SXGA解析度的PC画面，用户可以获得舒适的远程交流环境。
+	</div>
+	<div class="paragraph">
+		设备特点：
+	</div>
+	<ul>
+		<li>兼容性强：完全兼容各种品牌符合 H.323 标准的 MCU 等视频会议平台</li>
+		<li>采用目前最高质量的编码算法，实现从1080P到D1多种质量图像传输的要求</li>
+		<li>采用广播级专业信号处理芯片设计，保证系统品质优良、运行稳定可靠</li>
+		<li>出色的网络适应性：多网口多路由技术实现跨接多个</li>
+		<li>先进的管理模式：支持WEB、TELNET、SSH等多种安全的管理模式</li>
+		<li>支持RTSP流媒体传输方式，可以将图像应用扩展到桌面</li>
+		<li>具有HDMI、SDI、YPbPr、VGA、复合端子等多种视频接口方式，全方位满足大型会议室集成的需求</li>
+	</ul>
+	<div class="paragraph">
+		技术指标：
+	</div>
+	<div class="news_image">
+		<img src="/images/products/ipvideo-3.png" width="600"/>
+	</div>
+</div>
+</div>
+<!--#include virtual="bottom.shtml"-->

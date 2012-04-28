@@ -1,0 +1,12 @@
+<!--#include virtual="../includes/top.html"-->
+<script type="text/javascript">
+	menu_item_selected('2');
+	append_title("产品中心");
+	//window.onload = register_list_items;
+	function show_sub_menu(index) {
+		for(var i = 1; i < 9; i++) {
+			var sm = document.getElementById("sm_" + i);
+			if(sm) sm.style.display = 'none';
+		}
+	}
+</script>

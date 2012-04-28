@@ -1,0 +1,186 @@
+<!--#include file="includes/top.html"-->
+<script type="text/javascript">
+	menu_item_selected('3');
+	append_title("新闻中心");
+</script>
+
+<div>
+<div><h2>» <a href="#">新闻中心</a></h2></div>
+<div id="div_content" style="width:90%;margin:0 auto;background-color:#fff;margin-top:30px;position:relative;">
+<div style="text-align:right;position:absolute;right:5px;top:-52px;">
+	<a href="#2012" class="year">2012</a> . <a href="#2011" class="year">2011</a> . <a href="#2010" class="year">2010</a> . <a href="#2009" class="year">2009</a> . <a href="#2008" class="year">2008</a>
+</div>
+	<div class="news-item"><a name="2012"></a><a name="2012021"></a>
+		<div class="news-title">新版网站上线</div>
+		<div class="news-date">2012.2</div>
+		<div class="news-content">
+			经过精心的策划和筹备，四维通联公司新版网站www.4g-live.com现已正式上线，同时新版网站平台除了作为公司形象和产品宣传平台之外，还作为公司网络视频平台软件的演示界面。改版后的网站内容更加丰富、结构更加清晰。简洁的浏览体验可使您快速获得想要的信息。公司新闻可以让您了解到公司的最新动态和新设备、技术、活动的资讯及公告。产品中心则进一步丰富了产品及其参数信息，并进行了妥善的分类归纳整理。技术与支持及解决方案和案例可以为用户提供更多的便捷服务。在线视频演示，可以让您直接体验四维通联网络视频平台软件的强大功能。我们期待您的关注参与和支持！我们将一如既往，持续不断地为您提供更加满意的产品和服务。
+		</div>
+	</div>
+	<div class="news-item"><a name="2012022"></a>
+		<div class="news-title">单卡紧凑型便携视频直播终端上市</div>
+		<div class="news-date">2012.2</div>
+		<div class="news-content">
+			<pre>
+四维通联公司推出单卡紧凑型便携视频直播终端，该设备具有设计小巧、功能多样、携带方便等特点，在应急通信，应急指挥领域具有广泛市场前景。
+      设备具有以下特性：
+	●	尺寸小：12cm*10cm*4cm，可以手持
+	●	重量轻：500g（含一块3AH电池重量）
+	●	支持双向语音对讲，可进行远程调度
+	●	内置SD存储，前端按键触发录像
+	●	具有USB 接口，可以导出录像文件
+	●	内置3AH电池，可以保证5个小时工作时间
+			</pre>
+		</div>
+	</div>
+	<div class="news-item"><a name="2012011"></a>
+		<div class="news-title">3G视频终端通过TD-LTE测试</div>
+		<div class="news-date">2012.1</div>
+		<div class="news-content">
+			近日，四维通联公司的3G视频直播终端通过大唐移动公司TD-LTE网络测试。其直播终端传输的最大视频码流可达到6Mbps，完全可以保证1080P高清视频信号的传输。
+		</div>
+	</div>
+	<div class="news-item"><a name="2011101"></a>
+		<div class="news-title">推出3G/OFDM双模终端</div>
+		<div class="news-date">2011.10</div>
+		<div class="news-content">
+			3G/OFDM双模终端是将3G传输和COFDM无线传输结合成一体的前端设备，主要目的是解决在3G覆盖不好的情况下，前端设备仍可以通过COFDM这种无线传输方式，将现场视频信号先传回到COFDM接收机上，在通过其他通信手段回传到视频监控中心去。
+		</div>
+	</div>
+	<div class="news-item"><a name="2011"></a><a name="2011091"></a>
+		<div class="news-title">发布手机爆料软件</div>
+		<div class="news-date">2011.9</div>
+		<div class="news-content">
+			四维通联公司正式发布手机上传系统，用户可以通过安装在智能手机上的客户端软件，把拍摄的视频，图片，编辑的文字等资料，随时上传到服务器上，还可以简单编辑事件的时间地点和简介等文字说明，适合于媒体报料，执法检查等应用。
+		</div>
+	</div>
+	<div class="news-item"><a name="2011081"></a>
+		<div class="news-title">3G多卡直播终端上市销售</div>
+		<div class="news-date">2011.8</div>
+		<div class="news-content">
+			<img src="/images/products/3gbox7.png" width="64" class="news"/>
+			四维通联公司推出3G多卡直播终端，利用多信道捆绑技术，有效扩展了数据的传输带宽，支持的视频传输码流最大可以到6Mbps，完全满足高清视频信号的传输需求。
+3G多卡直播终端最多可插八张3G上网卡,支持联通WCDMA和电信EVDO混用模式，支持WiFi、WiMax、TD-LTE等其他无线网络，采用H.264 High Profile编码，支持网络自适应的动态编码，最大传输码率可达2.5Mbps，4G网络下可达到6Mbps，图像频分辨率最大支持720P（ 1280*720@50i） 格式 ，标清SDI/CVBS输入自适应，立体声音频接口。
+		</div>
+	</div>
+	<div class="news-item"><a name="2011071"></a>
+		<div class="news-title">短波矩阵开关设备定型</div>
+		<div class="news-date">2011.7</div>
+		<div class="news-content">
+			四维通联公司推出10*10短波矩阵开关设备，具有大动态、高隔离度、二三截止点高的特性，设备具有体积小，操作方便等特点。该设备能够完成10路输入到10路短波信号输出的任意交换，频率范围从0到50MHz，功率最大可达1000W，实现了短波信号的全交换，可以进行远程控制，对于无人值守阵地的短波发射机和天线进行远程切换，并且克服了以前的共用器体积庞大，机械切换，易损，不易维护的缺点。
+		</div>
+	</div>
+	<div class="news-item"><a name="2011061"></a>
+		<div class="news-title">山西某地在线工地监控项目圆满完成</div>
+		<div class="news-date">2011.6</div>
+		<div class="news-content">
+			通过四维通联公司与当地分销商的共同努力，山西某地区在线视频工地监控项目顺利实施完毕。该项目包括该地区国家重点项目工程在建工地、保障房工程建设工地，共计100多个工地，500多个监控点，现场监控图像可以通过专线方式，也可以通过3G网络传回到指挥中心。通过这个监控平台，相关部门和领导不仅可以随时查看工程实际进展情况，还可以对现场工程直接进行指挥调度，为政府相关部门实施行政管理提供了一个新的手段。
+		</div>
+	</div>
+	<div class="news-item"><a name="2011041"></a>
+		<div class="news-title">四维通联公司推出服务器安全防护系统</div>
+		<div class="news-date">2011.4</div>
+		<div class="news-content">
+			四维通联公司与诺斯恒信公司合作，推出服务器安全防护系统，对于政府，企业等的服务器和终端可提供高可靠性的防护，完全国产，并在国内众多重要政府部门，管理机构，军队系统和大企业的核心信息系统上安装运行。
+		</div>
+	</div>
+	<div class="news-item"><a name="2010"></a>
+		<div class="news-title">中标河北省环境监测中心站监测设备采购项目</div>
+		<div class="news-date">2010.12</div>
+		<div class="news-content">
+			近日，北京四维通联科技有限公司在河北省环境监测中心站环境监测设备采购招标项目中一举中标，中标金额为338.4万元人民币。
+		</div>
+	</div>
+	<div class="news-item">
+		<div class="news-title">3G双卡直播终端正式上市</div>
+		<div class="news-date">2010.11</div>
+		<div class="news-content">
+			<img src="/images/products/3gbox2.png" height="64" class="news"/>
+			为了提高3G视频直播图像质量，四维通联公司推出3G双卡直播终端，利用多信道捆绑技术，有效扩展了数据的传输带宽，支持的视频传输码流最大可以到3Mbps，完全满足高清视频信号的传输需求。
+		</div>
+	</div>
+	<div class="news-item">
+		<div class="news-title">3G视频监控系统成功用于各地环境监测</div>
+		<div class="news-date">2010.9</div>
+		<div class="news-content">
+			近日，四维通联公司为张家口环监支队、天津环境监察大队、广西食品药品监督管理局等单位的应急指挥车提供3G视频直播系统，可以将现场监察视频信号传回到监测中心。其中张家口环监支队应急指挥车上同时使用3G视频直播系统和卫星通信系统，在有3G信号的情况下使用3G直播系统，可以大大节省通信费用；在没有3G信号的情况下，使用卫星通信系统，可以保证在任何地点，现场图像都能回传到指挥中心。
+		</div>
+		<div class="news_image">
+			<img src="/images/products/vehicle.png" width="500" class="shadow_box"/>
+		</div>
+	</div>
+	<div class="news-item">
+		<div class="news-title">发布3G手机直播客户端软件</div>
+		<div class="news-date">2010.5</div>
+		<div class="news-content">
+			为了使3G视频直播系统具有更广泛的应用性，四维通联公司推出3G手机传输终端，利用3G手机的摄像功能，通过客户端软件即可把现场采集的画面实时传送给直播中心。视频传输的文件格式为MPEG4，码率达300kbps。
+		</div>
+		<div class="news-content">
+四维通联此次同时发布基于三种智能手机操作系统的三款客户端软件。分别支持Windows Mobile 6.5及以上版本、Android2.1及以上版和Apple IOS4.0及以上版本的智能手机操作系统。
+		</div>
+		<div class="news_image">
+			<img src="/images/products/ipvideom.png" class="shadow_box"/>
+		</div>
+	</div>
+	<div class="news-item">
+		<div class="news-title">SmartVision V2.0多媒体接入管理平台软件正式发布</div>
+		<div class="news-date">2010.2</div>
+		<div class="news-content">
+			SMARTVISION V2.0网络多媒体接入管理平台软件基于稳定高效的核心实时多媒体数据处理内核，实现面向互连互通、兼容开放的网络多媒体服务平台，该平台利用嵌入式的多媒体网关软件实现不同类型视频终端的各种网络类型的统一接入和标准的网络视频服务，利用开放的功能强大的管理平台去适应不同行业不同用户的功能定制。该平台软件可以广泛应用于：
+			<pre>  1）平安城市安防系统的建设和新旧系统的整合
+	2）基于IP网络、集视频指挥调度、视频会议、视频监控于一体的可视化指挥调度通信系统。
+	3）应急指挥控制平台
+	4）多部门，多单位联网监控平台
+	5）互连互通通信平台
+	6）3G手机及3G/4G图传终端视频接入管理平台
+			</pre>
+		</div>
+	</div>
+	<div class="news-item"><a name="2009"></a>
+		<div class="news-title">3G单卡直播终端正式上市</div>
+		<div class="news-date">2009.12</div>
+		<div class="news-content">
+			四维通联公司提供广电行业3G现场视频直播解决方案并推出3G单卡直播终端，可以借助3G/4G/WiFi/WiMax等无线及有线网络，结合高效的H.264编解码方案，使得用户可以随时、随地、全天候的进行广播级电视直播业务。
+		</div>
+		<div class="news-content">
+			3G现场直播解决方案的推出，极大降低新闻直播系统的投入成本，其使用成本是传统电视转播车和微波车的三十分之一至六十分之一；同时，由于3G直播系统设备的便携性，只要记者在新闻现场，就可以把现场画面实时传回演播室用于新闻直播，可深入到转播车无法到达的地区，大大扩展了新闻采访空间。
+		</div>
+		<div class="news-content">
+			3G 单卡直播终端，可插一张3G上网卡,支持联通WCDMA和电信EVDO（CDMA2000）网络；采用H.264 AVC High Profile编码，支持网络自适应的动态编码；最大传输码率可达1 Mbps，图像频分辨率最大支持D1（ 720*576@50i） 格式。 
+		</div>
+	</div>	
+	<div class="news-item">
+		<div class="news-title">四维通联3G视频监控系统用于09国庆安保</div>
+		<div class="news-date">2009.10</div>
+		<div class="news-content">
+			作为最早参与3G网络视频监控产品研发和生产的企业，四维通联在3G视频通信起步伊始便敏锐地察觉到技术的发展趋势并积极与中国联通公司等3G运营商开展深入合作。得益于雄厚的3G网络视频监控技术基础，2009年60周年国庆安保就采用了四维通联的核心3G网络视频监控设备，将流动监控区域的图像实时传回到指控中心，使得国庆安保的有效性得到了指数级的提高。四维通联的3G网络视频监控设备也以先进的技术和优良的品质获得了大家认可。
+		</div>
+	</div>
+	<div class="news-item">
+		<div class="news-title">四维通联公司推出基于H.264 high profile的高清网络编解码器</div>
+		<div class="news-date">2009.1</div>
+		<div class="news-content">
+			北京四维通联科技有限公司推出基于H.264 High Profile标准的新一代高清网络视频编码器，该产品具有更高的图像分辨率（最高可支持全实时的1080P分辨率）和更丰富的高清视频输入接口（VGA\色差\HD-SDI\HDMI等），同时延续了以往成功产品丰富完备的功能、高品质的生产工艺和稳定可靠的性能。 
+		</div>
+		<div class="news-content">
+			H.264 High Profile是目前H.264各种profile中编码最高效的Profile。由于其更高的编码压缩率和网络适应性，被很多应用领域关注，其中包括高清视频监控、高清网络摄像机、智能监控、无线监控等。		
+		</div>
+		<div class="news_image">
+			<img src="/images/products/nedh.png" class="shadow_box"/>
+		</div>
+	</div>
+	<div class="news-item"><a name="2008"></a>
+		<div class="news-title">四维通联提供的卫星动中通设备成功用于奥运安保</div>
+		<div class="news-date">2008.8</div>
+		<div class="news-content">
+			应某部委托，北京四维通联科技有限公司为2008年奥运安保项目提供卫星动中通通信系统并完成通信车改装。
+		</div>
+		<div class="news-content">
+			动中通天线利用平面相控阵技术，配合GPS和陀螺仪辅助机械跟踪系统，在车辆运动过程中，自动完成搜索并捕获指定的卫星信号，提供高速、宽带大容量的语音、数据及高清晰的动态视频图像等多媒体信息，使用户在高速移动中完成宽带、实时语音及视频通信。	
+		</div>
+		<div class="news_image">
+			<img src="/images/products/comvehicle.png" width="400" class="shadow_box"/>
+		</div>
+	</div>
+</div>
+<!--#include file="includes/bottom.html"-->

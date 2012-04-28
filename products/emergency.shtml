@@ -1,0 +1,422 @@
+<!--#include virtual="top.shtml"-->
+<script type=text/javascript>
+	append_title("应急指挥视频通信系统");
+	window.onload = function() {
+		set_selected_box(2);
+	}	
+</script>
+
+<div class="shadow_box_bottom product_top">
+	<div style="float:left;width:300px;padding-left:10px">
+		<h2>» <a href="#">应急指挥视频通信系统</a></h2>
+	</div>
+	<div style="float:left;width:688px;text-align:right;padding-top:25px;position:relative">
+		<div style="position:absolute;background-color:#fff;height:50px;width:10px;right:-10px;bottom:-9px"></div>	
+		<a href="#overview" style="margin-right:10px;">概述</a>
+		<a href="#technique" style="margin-right:10px;">技术特点</a>
+		<a href="#composition" style="margin-right:10px;">产品构成</a>
+		<a href="#scene" style="margin-right:10px;">行业应用</a>
+	</div>	
+</div>
+
+<div id="div_content" style="margin-top:55px;background-color:#fff">
+	<div style="width:777px;float:right;background-color:#fff;border-left:1px solid #bbb">
+	
+<div style="width:90%;margin:0 auto;padding-top:10px">
+	<div class="overview"><a name="overview">概述</a></div>
+	<div class="paragraph">
+		随着通信技术的飞速发展、网络技术日趋成熟，方式单一的无线通信手段已经不能满足应急指挥系统对音视频信号实时传输的要求，北京四维通联科技有限公司经过大量的市场调研，结合各行各业对应急指挥系统提出的新要求，经过反复的技术论证和大量的测试，在各方面都得到了充分肯定的情况下，向市场推出了无线应急指挥系统视音频接入综合解决方案，该方案集成了先进的3G视频传输技术、COFDM无线图传技术、卫星动中通系统、便携式音视频采集及传输系统、GPS车载卫星定位系统等，实现了现场与远地指挥中心之间，通过多种通信信道，实现远程图像监控、语音联络、数据查询。指挥中心的指挥决策人员如临其境，及时获得现场信息，提高决策的准确性和及时性，为积极预防和应对特种设备乃至质量监督突发事件，减少突发公共事件造成的损失提供强有力的技术保障。同时，在现场指挥的人员也可以通过此系统与应急调度指挥中心保持联系，使现场指挥、指令迅速下达。
+	</div>
+	<div class="paragraph">
+		该解决方案可广泛地应用于公安执法、政府应急办、安全生产监督、环境监测、电力抢险、城管监察、交通执法、消防抢险以及政府公共事业等企业与单位。
+	</div>
+	<div class="paragraph">
+		如下图所示，整个应急指挥系统由三个部分组成：前端单兵人员、现场指挥所和指挥中心接入，前端单兵人员通过不同的无线通信手段（3G、Wifi、COFDM、卫星通信等）将现场采集的视音频信号传送到现场指挥车或总部指挥中心。 现场指挥所通常是一个经过通信改装的指挥车，可以接收在附近区域范围单兵人员传送过来的视音频信号，同时可以通过卫星或3G等通道同总部指挥中心联系。总部指挥中心不仅可以指挥调度现场指挥所人员，也可以直接指挥前端单兵人员。
+	</div>
+	<div class="news_image">
+		<img src="/images/products/image4.png" width="600"/>
+	</div>
+	<div class="overview"><a name="technique">技术特点</a></div>
+	<ul>
+		<li>多种传输手段：采用不同的音视频传输手段，保证系统可用性。在3G信号覆盖的区域，可以使用3G单兵终端；在没有3G信号情况下，可以使用OFDM动中通；而在现场指挥车上安装的卫星动中通系统，完全可以保证在任何地点、任何时间，同指挥中心的通信</li>
+		<li>3G单兵终端支持多种通信体制。支持WCDMA、CDMA2000、WiFi、WiMax和TD-LTE等多种制式</li>
+		<li>3G终端单兵可以选装GPS模块，可以和GIS系统连接</li>
+		<li>3G单兵终端可以选装COFDM发射模块，在3G信号不好的情况下，也可以将音视频信号传输到现场指挥车的COFDM接收机上。3G单兵终端和OFDM单兵终端均支持双向语音功能，可以同指挥中心进行双向对讲</li>
+		<li>3G单兵终端和OFDM单兵终端支持前端存储功能，并支持回传功能</li>
+		<li>点对多点功能：OFDM接收机可以8MHz带宽内同时接收4路发射机的视频，也就是说可以在移动通信车附近布置4个外围OFDM单兵终端</li>
+		<li>选择便携式卫星站作为前端视频传输设备，可以满足任何地点、在短时间内(几分钟)建立可靠的远程话音、数据和视频的通信</li>
+		<li>“动中通”应急卫星通信系统，卫星天线安装在车顶平台外，设备随时对星，不需要对天线校正的特殊测试设备，不需要操作天线的计算机或外围设备，不需要网管和专业人员操作，即开即用</li>
+		<li>所有设备参数均支持远程参数调整，使用维护非常方便</li>
+		<li>应急指挥音视频接入平台包括多媒体网关、管理服务器、录像服务器、大屏终端和平台软件。可以对前端不同路径传送过来的音视频信号进行显示、转发和录像管理，对前端设备进行设备状态监测和管理，对前端人员和指挥车进行指挥调度管理
+	</ul>
+	<div class="overview"><a name="composition">产品构成</a></div>
+	<div class="news_image">
+		<img src="/images/products/image5.png" width="600">
+	</div>
+	<div class="paragraph">
+		四维通联应急指挥无线视频通信系统，由前端单兵终端、车载动中通设备和应急指挥中心接入平台三部分组成。 
+	</div>
+	<div style="margin-left:30px;">
+		<div class="overview">
+			<a name="front_end_terminal">1、前端单兵终端</a>
+		</div>
+		<div class="paragraph">
+			根据现场情况，采用不同的通信手段传输音视频信号，前端单兵终端可以是3G单兵终端、3G手机终端、OFDM单兵终端、3G/OFDM双模单兵终端。
+		</div>
+		<div style="margin-left:20px;">
+			<div class="overview">
+				<a name="front_end_terminal_3g">● 3G 单兵终端</a>
+			</div>
+			<div>
+				<div class="paragraph">
+					3G单兵终端采用先进的H.264视频压缩算法、流媒体视频处理技术，将摄像机采集到的图像，经视频压缩编码，通过3G无线通讯模块，把实时动态图像通过3G网络传输到位于Internet／Intranet(VPDN)的中心管理服务器，指挥中心可以实时查看现场视频，为调度指挥提供有力的现场依据。
+				</div>
+				<div class="news_image">
+					<img src="/images/products/fe3g.png" width="200"/>
+				</div>
+				<pre>
+		产品特点：
+		•	支持联通WCDMA和电信EVDO（CDMA2000）网络，支持WIFI
+		•	采用H.264 High Profile编码，支持网络自适应的动态编码
+		•	最大传输码率可达2Mbps
+		•	图像频分辨率最大支持D1（720*576@50i） 格式 
+		•	标清SDI/CVBS输入自适应，3.5英寸立体声音频接口
+		•	支持双向语音对讲
+		•	可选装GPS模块
+		•	本地SD存储
+		•	内置3AH电池，可以保证5个小时工作时间
+		•	多种携带方式设计，可斜背、摄像机外挂
+		•	铝合金外壳，坚固耐用、体积小易于携带方便
+		•	设备尺寸：12cm*10cm*4cm
+		•	设备重量：500g（含一块3AH电池）
+			
+				</pre>
+			</div>
+				
+			<div class="overview">
+				<a name="front_end_terminal_m">● 3G手机终端</a>
+			</div>
+			<div>
+				<div class="paragraph">
+					3G手机视频直播终端可以使用Windows Mobile 6.5及以上版本、Android2.1及以上版和Apple IOS4.0及以上版本的智能手机，需要在直播手机上安装对应各自操作系统的手机直播客户端软件。
+				</div>
+				<div class="paragraph">
+					用户利用3G手机的摄像功能，通过安装在3G手机上的客户端软件把采集的画面通过3G网络实时传送给3G媒体服务器，再转发到3G录播服务器上进行处理。
+				</div>
+				<div class="news_image">
+					<img src="/images/products/ipvideom.png" width="200"/>
+				</div>
+				<pre>
+	•	实时拍摄现场视音频，通过3G网络发送给3G媒体服务器
+	•	支持Windows Mobile，Apple iPhone，Android等多种平台下的3G手机
+	•	使用MPEG-4压缩格式，最大传输码率可达300kbps
+	•	图像分辨率为CIF ( 352×288像素 )
+	•	视频帧率最大可以到15帧
+	•	实时双向通话
+	通过客户端直播软件也可以将文件和图片发送到媒体服务器上进行处理
+				</pre>
+			</div>
+			
+			<div>
+				<div class="overview">
+					<a name="front_end_terminal_ofdm">● OFDM单兵终端</a>
+				</div>
+				<div class="paragraph">
+					OFDM单兵终端集发射天线、功率放大、数字调制、视音频数字压缩于一体，可单独背负使用。它可以上传传输一路图像、双向语音、一路内嵌式GPS数据、一路RS232数据。采用扣板型电池设计，电池和发射机一体使用，方便用户更换电池和携带使用。最大功率可选5W以上，具有传输距离远，方便携带的特点，可用于现场高清晰图像采集和传输，通视条件下传输距离可达50公里以上，是部队、武警、公安、消防、人防、水利、海事、广播电视等行业在安全保卫、任务侦察、灾难救援、现场转播等任务中急需的无线图像传输设备。
+				</div>
+				<div class="news_image">
+					<img src="/images/products/emergency-1.png"/>
+					<img src="/images/products/emergency-2.png"/>
+				</div>
+				<pre>
+	产品特点：
+	•	视频压缩：H.264 High Profile
+	•	图像分辨率：最大D1
+	•	频段选择：300～850MHz；
+	•	多调制技术：带宽COFDM，8/3.5MHz（可选）；
+	•	接收门限电平：灵敏度-103dBm（10-6 BER @3.5MHz信道宽度）
+	•	加密标准：具有128位AES加密功能，避免非法接收
+	•	支持非视距（NLOS）传输
+	•	支持高速移动传输
+	•	手动键控输出功率可调：250mW～1.5W 
+	•	手动键控8频道选择
+	•	双向语音传输，方便指挥中心对发射端实时语音控制
+	•	可选择加装GPS模块嵌入主板中
+	•	附加RS232数据传输通道：150bps～19.2Kbps速率自适应
+	•	附加宽范围供电方式：DC8V～DC18V
+				</pre>
+			</div>
+			
+			<div class="overview">
+				<a name="front_end_terminal_3g_ofdm">● 3G/OFDM单兵终端</a>
+			</div>
+			<div class="paragraph">
+				3G单兵终端可以选装1个COFDM发射模块，在3G信号不好的情况下，也可以将音视频信号发送到现场指挥车的COFDM接收机上。
+			</div>
+			<pre>
+	•	支持联通和电信3G网络，支持WIFI
+	•	内置COFDM发射机，发射机最大输出功率为1W
+	•	采用H.264 High Profile编码，支持网络自适应的动态编码
+	•	最大传输码率可达2Mbps
+	•	图像频分辨率最大支持D1（720*576@50i） 格式 
+	•	标清SDI/CVBS输入自适应，3.5英寸立体声音频接口
+	•	支持双向语音对讲
+	•	可选装GPS模块
+	•	本地SD存储
+	•	多种携带方式设计，可斜背、摄像机外挂
+	•	铝合金外壳，坚固耐用、体积小易于携带方便
+			</pre>
+			
+			<div class="overview">
+				<a name="front_end_terminal_satellite">● 卫星便携站</a>
+			</div>
+			<div class="paragraph">
+				卫星便携站是专为适用于各类远程应急通信现场工作而设计的一款高品质音视频通信及远程控制调度的可背负式终端平台产品。
+			</div>
+			<div class="paragraph">
+				卫星便携站内置高清网络视频编解码器、交换机。提供本地无线音视频传送并可通过预留的标准机位嵌入各类无线通信（微波及卫星）的基带终端实现远程音视频双向宽带传送及指挥调度功能。是用户实现应急现场的高清视频采集传送、接收及监视的理想平台。
+			</div>
+			<div style="margin-left:20px">
+				<div class="overview">
+					（1）设备性能
+				</div>
+				<div class="paragraph">
+					该产品是业内领先的性价比有绝对优势的应急现场音视频通信及处理的全面解决方案，可以单独在应急现场使用完成本地无线高清音视频的传送工作，因产品配备了标准射频接口模块因此也可通过嵌入用户的远程通信基带单元（卫星Modem）实现适应远程通信的应急现场高清音视频处理。
+				</div>
+				<pre>
+•	产品针对应急工作要求，模块设计紧凑功能齐全，便携性突出；
+•	视频处理内置高清网络视频编解码器，用户可根据自身的带宽情况选择由标清到高清的不同标准及带宽完成音视频通信；
+•	可通过卫星实现远程音视频控制及调度指挥；
+•	可支持点对点、点对多点、组播及全网状业务</pre>
+				<div class="overview">
+					（2）主要功能
+				</div>
+				<pre>
+•	支持局域网及跨路由的远程网间音视频传送和远程控制及调度指挥；
+•	本产品适合许多世界上处于领先地位设备提供商的基带通信终端做嵌入式使用，如Comtech、EMS、iDirect、
+	Tachyon、ViaSat、Gilat、IPStar等，预留的安装机位有1—3U；
+•	支持本地及远程间H.264的视频传送；
+•	接入及控制功能强大，可对所有内置及嵌入模块实行分路电源管理；
+•	统一的标准射频接口（可外接卫星单元），为嵌入的基带设备预留多路分频接口；
+•	外接标准音视频接口及IP数据接口；
+•	支持远程语音调度指挥呼叫的通信机天线接口；
+•	实时监视/监控本地及远程的交互视音频信号等功能；
+•	可联接使用IP电话及网关。</pre>
+				<div class="news_image">
+					<img src="/images/products/emergency-3.png"/>
+					<div class="italic"><pre>天线展开工作示意                                设备展开可平放使用也可立式使用</pre></div>
+				</div>
+				<div class="news_image">
+					<img src="/images/products/emergency-4.png"/>
+					<div class="italic">整体装包情况</div>
+					<img src="/images/products/emergency-5.png"/>
+					<div class="italic">实际装箱示意</div>
+				</div>
+			</div>
+		</div>	
+	</div>	
+	
+	<div style="margin-left:30px;">
+		<div class="overview">
+			<a name="vehicle_moving_com">2、车载动中通设备</a>
+		</div>
+		<div style="margin-left:20px;">
+			<div class="overview">
+				<a name="vehicle_moving_com_salellite">● 卫星动中通系统</a>
+			</div>
+			<div class="paragraph">
+				卫星动中通系统由一个车载动中通应急通信平台、一个地面基地站（设在中心）组成，采用点对点（FDMA/MCPC）工作方式。卫星车载站与中心站之间通过卫星传输现场图像、话音和数据信号，系统组成见下图：
+			</div>
+			<div class="news_image">
+				<img src="/images/products/emergency-6.png"/>
+			</div>
+			<div class="paragraph">
+				卫星动中通系统可以在中国全境通过租用的卫星转发器，快速的将现场网络连接到指挥中心网络上，在现场指挥车快速移动和静止时，实现现场指挥中心与总部指挥中心双向的图像传输、语音通信、数据交换等功能。“动中通”卫星天线安装在平台外，设备随时对星，不需要对天线校正的特殊测试设备，不需要操作天线的计算机或外围设备，不需要网管和专业人员操作。
+			</div>
+			<div class="news_image">
+				<img src="/images/products/comvehicle.png" width="300"/>
+			</div>
+			<div class="paragraph">
+				卫星动中通系统车载设备包括卫星动中通天线（含天线、功放、LNA和天线控制器）、卫星modem和综合复用器。指挥车上多路语音、数据、图像信号通过多种接口接入到综合复用器和编解码器，设备对各数据进行压缩、编码、打包，最后输出一路复合数据流，复合数据流经过加密机加密后，输入到Modem中，Modem将基带信号调制为L波段的中频信号，再经上变频器变为Ku波段后经功放对信号进行放大后，由天线发射出去。
+			</div>
+			<div class="paragraph">
+				下图为一个应急指挥车内通信设备和音视频设备连接图：
+			</div>
+			<div class="news_image">
+				<img src="/images/products/emergency-7.png" width="500"/>
+			</div>
+			<div class="overview">
+				<a name="vehicle_3g">● 3G 车载终端</a>
+			</div>
+			<div class="paragraph">
+				3G车载终端可以将指挥车上的音视频信号经视频压缩编码，通过3G无线通讯模块，把实时动态图像通过3G网络传输到指挥中心。
+			</div>
+			<div class="paragraph">
+				3G车载终端性能和指标与<a href="#front_end_terminal_3g"><b>3G单兵终端</b></a>完全一样，为了满足在指挥车设备上架的要求，做成1U标准19英寸机箱形式。
+			</div>
+			<div class="overview">
+				<a name="ofdm_receiver">● OFDM接收机</a>
+			</div>
+			<div class="paragraph">
+				是一个4U机架式4路非视距移动图像接收机，可以同时接收四路OFDM单兵终端发射过来音视频信号，同时接收机具有双向语音对讲功能，可以和发射前端进行语音联系，实时进行语音指挥。
+			</div>
+			<div class="news_image">
+				<img src="/images/products/ofdm_receiver.png" width="300"/>
+			</div>
+			<div>产品特点</div>
+			<ul>
+				<li>接收灵敏度高: 达-108dBm（10-6 BER @2.0MHz信道宽度）</li>
+				<li>单天线接收技术：只使用一根接收天线，就能同时接收四路发射机传来的信号，对接收性能没有影响
+				<li>自动功率控制功能：如果没有自动功率控制功能，两个发射频率相邻的发射机的频谱在强弱差别比较大时会相互干扰，在接收端信号比较强的发射信号会干扰较弱的信号，几路设备不能在相邻频段同时工作</li>
+				<li>在8MHz带宽内同时接收4路发射机的视频：在8MHz带宽内可同时接收四路发射机的音视频信息，且不相互干扰</li>
+				<li>双向语音对讲功能：可以和发射前端进行语音联系，实时进行语音指挥</li>
+				<li>自带液晶屏，实时监控：在车载4U接收机前面板上，装有7"液晶屏；在便携接收机前面板上，装有14"液晶屏；利用此液晶屏，可以实时显示接收机收到的视频。并且支持四画面分割和单路视频切换</li>
+				<li>内置DVR，支持录像存储：内置车载DVR，支持四路监控录像，具备CIF、HD1和D1三种分辨率，总资源为100帧CIF/秒；采用H．264 Main profile编码格式，压缩比高，图像清晰；采用特殊文件系统，对数据进行加密，有效保护数据安全。使用SD卡为存储介质，读取数据方便、快捷；采用专门的防震技术，保障设备长期稳定运行</li>
+				<li>GPS定位功能：接收端有GPS输出端口，可以在显示屏上实时显示GPS信息，配合电子地图软件和计算机，可以在电子地图上实时查看单兵的地理位置</li>
+				<li>对外提供多种接口：主通道接口包括AV视频接口、以太网标准接口（10/100BASE-T自适应），辅通道接口提供RS232数据接口、GPS数据接口和双向语音业务接口</li>
+			</ul>
+		</div>	
+	</div>	
+	
+	<div style="margin-left:30px;">
+		<div class="overview">
+			<a name="platform">3、应急指挥中心视频接入平台</a>
+		</div>
+		<div class="paragraph">
+			应急指挥音视频接入平台包括管理服务器、多媒体网关、录像服务器、大屏终端和平台软件。可以对前端不同路径传送过来的音视频信号进行显示、转发和录像管理，对前端设备进行设备状态监测和管理，对前端人员和指挥车进行指挥调度管理。
+		</div>
+		<div style="margin-left:20px;">
+			<div class="overview">
+				<a name="management_server">● 管理服务器</a>
+			</div>
+			<div class="paragraph">
+				SMARTVISION网络多媒体接入管理平台软件基于稳定高效的核心实时多媒体数据处理内核，实现面向互连互通、兼容开放的网络多媒体服务平台，该平台利用嵌入式的多媒体网关软件实现不同类型视频终端的各种网络类型的统一接入和标准的网络视频服务，利用开放的功能强大的管理平台去适应不同行业不同用户的功能定制。
+			</div>
+			<div class="paragraph">
+				该平台软件可以广泛应用于：
+			</div>
+			<pre>
+      1）平安城市安防系统的建设和新旧系统的整合
+      2）基于IP网络、集视频指挥调度、视频会议、视频监控于一体的可视化指挥调度通信系统。
+      3）应急指挥控制平台
+      4）多部门，多单位联网监控平台
+      5）互连互通通信平台
+      6）3G手机及3G/4G图传终端视频接入管理平台</pre>
+			<div class="news_image" style="margin-bottom:20px">
+				<img src="/images/products/emergency-9.png"/>
+			</div>
+			<div class="overview">
+				<a name="gateway">● 多媒体网关</a>
+			</div>
+			<div class="paragraph">
+				多媒体网关可以实现对3G终端、3G手机终端、OFDM终端、车载视频终端和其他网络视频设备的统一接入；同时多媒体网关实现所管理的多媒体终端的流转发功能，面向网络客户端、录像服务器和大屏幕输出设备，实时转发这些接收端申请的多媒体数据。
+			</div>
+			<div class="paragraph">
+				多媒体网关作为SMARTVISOIN应急指挥管理平台的基本服务器节点，可独立实现基层一级网络多媒体服务。多媒体网关可以实现对于不同厂家的编码器（DVS），网络硬盘录象机（DVR）、网络会议终端、3G视频终端和3G手机终端的统一接入，实现不同设备的系统统一接口。同时多媒体网关实现所管理的多媒体终端的流转发功能，面向网络客户端、录像服务器和大屏幕输出设备，实时转发这些接收端申请的多媒体数据。
+			</div>
+			<div class="news_image">
+				<img src="/images/products/emergency-gateway.png" width="400"/>
+			</div>
+			<div>产品特点</div>
+			<ul>
+				<li>多媒体网关是嵌入式LINUX服务平台，在出厂前，软件已经预先安装，用户无需维护软件安装。设备加电和断电恢复后，多媒体网关软件自动启动运行</li>
+				<li>标准配置可支持静态接入128路网络视频流，并支持多网络用户同时访问</li>
+				<li>双千兆网口，可同时支持3G网络和局域网访问，双网隔离状态下同时访问获取音视频实时监控</li>
+				<li>支持同一个管理平台下多台网关的堆叠扩充或网络分布式部署</li>
+				<li>支持标准SIP协议</li>
+				<li>内置HTTP配置服务，可远程管理多媒体网关，进行远程配置、远程启动和状态诊断等功能</li>
+				<li>可同时支持多主流设备厂家设备（包括不同厂家的NVS、NVR、3G手机、3G终端）从而实现3G视频系统同用户其他视频系统的平台统一建设或统一管理，可以实现同已有系统的互连互通</li>
+				<li>支持网关级联，包括穿透安全网闸的网关镜像</li>
+				<li>可支持双机热备，在有热备情况下，可实现3秒内的主备切换</li>
+			</ul>
+			<div class="overview">
+				<a name="nvr">● 录像服务器</a>
+			</div>
+			<div class="paragraph">
+				提供对多媒体网关转发过来的，外围3G终端、OFDM终端、车载视频终端和其他网络视频设备的视频流进行记录和检索回放。
+			</div>
+			<div class="news_image">
+				<img src="/images/products/emergency-nvr.png" width="300"/>
+			</div>
+			<div>产品特点</div>
+			<ul>
+				<li>多种网络视频设备接入：支持主流网络摄像机、网络视频编码器、网络硬盘录像机、3G终端、3G手机等设备</li>
+				<li>多种视频格式存储：可接入高达1080P（1920x1080/25fps）、720P（1280x720/25fps）和D1(704x576/25fps)分辨率的网络视频信号</li>
+				<li>录像模式：手动、预设、移动监测、报警触发</li>
+				<li>三工操作：同时视频监控、录像和录像回放</li>
+				<li>个性化工作表设置：支持个性化录像工作表的编制和执行</li>
+				<li>视频资料的智能检索：智能搜索引擎在历史视频资料的检索中快速锁定监控目标，过滤无关的视频信息，节省检索时间</li>
+				<li>内置WEB Server：支持WEB方式远程浏览</li>
+				<li>超强网络吞吐能力：集成双千兆网络交换，高码流情况下保证稳定的网络吞吐流量</li>
+				<li>全局冗余备份：采用N+1个服务器配置，可实现全局冗余备份，确保视频资料万无一失</li>
+				<li>设备远程设置功能：支持远程参数配置、维护、软件升级</li>
+				<li>通道状态显示：可以在通道画面上显示通道名称、录像状态、视频连接状态、动态检测状态等</li>
+				<li>系统设备诊断功能：系统具有设备自诊断功能，能够实时监测设备及硬盘的工作状态、网络连接状态等</li>
+				<li>支持流媒体视频转发服务：实时视频、历史视频、控制信号与报警信号的转发，实现带宽的优化与分配</li>
+			</ul>
+			<div class="overview">
+				<a name="big_screen">● 大屏输出终端</a>
+			</div>
+			<div class="paragraph">
+				大屏输出终端通过大屏终端管理软件来控制和调度输出的视频信号到用户指定的大屏显示器上。大屏输出终端也可以看做为一台万能解码器，将MPEG2、MPEG4、H264、AVS、WMV等格式的视频流进行实时解码并以HDMI、VGA或DVI格式输出的大屏显示设备上。
+			</div>
+			<div class="news_image">
+				<img src="/images/products/big_screen.png" width="300"/>
+			</div>
+			<div>产品特点</div>
+			<ul>
+				<li>兼容性强：完全兼容符合H.264、SIP标准的各种品牌的网络视频编码器。</li> 
+				<li>性能稳定：满足7×24小时不间断运行需求。</li> 
+				<li>超强解码：最强单台解码能力，支持16路D1高清信号的解码输出。</li> 
+				<li>高清面质：支持DVI输出，可转换为HDMI和VGA信号。</li>
+				<li>画面流畅：每路画面带宽最高可达8Mbps，帧率为30fps，画面清晰流畅。 </li>
+				<li>分屏模式：支持多种分屏模式，最大支持16分屏。 </li>
+				<li>轮询显示：支持平滑切换功能，可以用显示设置实现上百个监控点的轮询显示。 </li>
+				<li>安装便捷：设备直接连接到网络上，无需占用额外的网络带宽资源。 </li>
+				<li>字幕功能：支持每路画面中英文字幕叠加，字幕大小、颜色、位置可调。 </li>
+				<li>管理便捷：支持分组轮询策略，自动切换不同会场画面，轮询时间可调。</li> 
+				<li>扩展能力：当需要同时显示会场数目超过单台设备最大输出时，可多台设备堆叠，增加系统容量。 </li>
+				<li>界面友好：全中文操作界面，操作简约，支持界面和功能定制，能通过网络远程管理、配置。</li> 
+			</ul>
+			<div class="news_image">
+				<img src="/images/products/emergency-8.png"/>
+			</div>
+		</div>	
+	</div>
+	
+	<div class="overview" style="margin-top:30px;"><a name="scene">典型行业应用</a></div>
+	<div style="margin-left:20px;margin-bottom:50px">
+		<div class="overview">
+			公安巡逻
+		</div>
+		<div class="paragraph">
+			主要是指对公安部门人员可以随身携带我们的背包式便携设备，将公安巡逻前端的场景，比如交通事故现场、街边摊点等场所及时的进行视频信号采集，并可以及时将前端的巡逻图像实时的传递到公安指挥中心，而且背包式便携应急指挥终端结构紧凑，体积小，一体化设计，方便携带；内置锂电池，适合移动作业，支持双向语音对讲，方便指挥中心对前端巡逻人员下达指示，对维护公共社会秩序起到积极地作用。
+		</div>
+		<div class="overview">
+			110出警
+		</div>
+		<div class="paragraph">
+			主要是指公安刑警可以随身携带我们的背包式便携设备，将前端出警的情况通过背包式便携设备及时的传到指挥后端，便于后端实时了解到前端的出警情况，方便后端指挥中心领导实时对前端进行指挥调度。从而可以大大提高出警速度，提高警队的工作效率和作战能力。
+		</div>
+		<div class="overview">
+			消防救援
+		</div>
+		<div class="paragraph">
+			消防移动通信指挥系统是整个消防系统的中枢神经，由于灾祸事故的突发性和灾祸事故扑救工作的特殊性、复杂性，要求这一神经中枢应该具有快速、准确、高效的通信指挥与调度决策能力。该系统由现场指挥车、背包式便携应急指挥终端和消防救援指挥中心控制、观看、指挥系统组成。采用无线网络视频传输技术，依托无线网络资源，以指挥车和背包式便携应急指挥终端为载体，使无线编码传输设备与指挥中心之间零距离，快速、及时、准确地收集现场信息，通过多种方式传输，实现了语音、视频、数据的传输，使火灾现场与指挥中心进行高效地沟通。 
+		</div>
+		<div class="overview">
+			电力抢修
+		</div>
+		<div class="paragraph">
+			主要是指电力抢修人员利用背包式便携应急指挥指挥终端产品的结构紧凑，体积小，方便携带的特性，可以背着设备爬到需要检修的高压输电线上将输电线上的图像画面及时的呈现到指挥后端，实现电力抢修前端与指挥后端之间的高效实时的沟通。
+		</div>
+		<div class="overview">
+			抢险救灾
+		</div>
+		<div class="paragraph">
+			主要是指对一些大型突发事件，比如说煤矿塌陷，地震救援等大型事故，是利用背包式便携应急指挥指挥终端产品的结构紧凑，体积小，方便携带的特性，及时的将前端现场图像发回指挥中心并可以实现指挥中心与前端的双向语音对讲，指挥中心可以及时向前端发送指挥命令，有效地指导前端的救灾抢险活动，确保人民群众的生活安全。
+		</div>
+	</div>		
+</div>
+</div>
+<!--#include virtual="bottom.shtml"-->

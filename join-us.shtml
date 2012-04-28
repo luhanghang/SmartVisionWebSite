@@ -1,0 +1,65 @@
+<!--#include file="includes/top.html"-->
+<script type="text/javascript">
+	menu_item_selected('6');
+	append_title("加入我们");
+</script>
+
+<div>
+	<h2>» <a href="#">加入我们</a></h2>
+</div>	
+<div id="div_content" style="margin:50px;background-color:#fff;margin-top:30px;position:relative">
+			
+<div>
+<div>
+	<div class="news-title">硬件研发工程师</div>
+	<div class="underline"></div>
+</div>	
+<pre>岗位职责 
+1、系统硬件电路设计，包括原理图、PCB，元器件选型以及生产工艺文件
+2、系统软硬件的验证和测试
+3、按要求编写详细的技术文档
+4、编制项目文档及质量记录
+5、完成公司布置的其它任务
+
+任职资格 
+1、电子、通信、自动化或相关专业本科及以上学历
+2、熟悉嵌入式系统开发者优先
+3、精通模拟及数字电路设计
+4、精通C语言，熟练使用相关的开发环境
+5、至少熟练掌握一种PCB设计工具，会使用PowerPCB或PADS系列软件者优先
+6、熟悉TCP/IP协议; 
+7、诚实守信，心理强健，能承受压力，有团队合作精神，注重细节; 
+	
+</pre>
+</div>
+
+<div style="margin-top:30px">
+<div>
+	<div class="news-title">软件研发工程师</div>
+	<div class="underline"></div>
+</div>
+<pre>岗位职责
+1、公司新产品的研发和设计，进行产品需求分析
+2、负责软件更改说明、功能特性说明等开发文档编写工作
+3、开发相应的软件模块
+4、完成代码的编写以及Bug的修改等工作
+
+任职资格
+1、精通windows编程，熟练掌握Windows API, 有系统Linux内核开发经验者优先
+2、精通C/C++语言，熟悉VC++开发工具
+3、熟悉 Windows/Linux 下Socket 网络开发（优先）
+4、对C/S结构程序开发有较深的理解和经验
+5、熟悉界面开发经验者优先
+6、精通面向对象的分析设计技术和工具
+7、具有团队协作能力，吃苦耐劳，工作态度扎实
+
+</pre>
+</div>
+<a href="mailto:bjsmartvision@sina.com">
+<div style="position:absolute;right:-60px;top:-50px;background-image: url(images/email.png);height:256px;width:256px">
+	<div style="color:#fff;margin-top:70px;margin-left:55px;font-weight:bold;font-size:16px;font-family: 'Courier New', Courier, Monaco, monospace;"><div>bjsmartvision</div><div style="margin-top:-20px;">@sina.com</div>
+	</div>
+</div>
+</a>
+</div>
+<!--#include file="includes/bottom.html"-->

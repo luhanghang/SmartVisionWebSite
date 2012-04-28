@@ -1,0 +1,105 @@
+	<div style="width:220px;float:right;">
+		<div class="box" id="box1">
+			<div class="arrow" style="display:none" id="arrow1"></div>
+			<div class="headline list_item"><a href="4glive.shtml">4G-Live直播系统</a></div>
+			<div class="list">
+				<div class="list_item"><a href="4glive.shtml#3gbox">直播终端</a></div>
+				<div>
+					<ul style="margin:0;padding-left:25px;">
+						<li class="list_item"><a href="4glive.shtml#3gbox1">单卡终端</a></li>
+						<li class="list_item"><a href="4glive.shtml#3gbox2">双卡终端</a></li>
+						<li class="list_item"><a href="4glive.shtml#3gbox7">多卡终端</a></li>
+						<li class="list_item"><a href="4glive.shtml#ipvideo_m">3G手机直播终端</a></li>
+					</ul>
+				</div>
+				<div class="list_item"><a href="4glive.shtml#gateway">媒体服务器</a></div>
+				<div class="list_item"><a href="4glive.shtml#nvr">录播服务器</a></div>
+			</div>
+		</div>
+		<div class="box" id="box2">
+			<div class="arrow" style="display:none" id="arrow2"></div>
+			<div class="headline list_item"><a href="emergency.shtml">应急指挥视频接入系统</a></div>
+			<div class="list">
+				<div class="list_item"><a href="emergency.shtml#front_end_terminal">前端单兵设备</a></div>
+				<div>
+					<ul style="margin:0;padding-left:25px;">
+						<li class="list_item"><a href="emergency.shtml#front_end_terminal_3g">3G单兵终端</a></li>
+						<li class="list_item"><a href="emergency.shtml#front_end_terminal_m">3G手机终端</a></li>
+						<li class="list_item"><a href="emergency.shtml#front_end_terminal_ofdm">OFDM单兵终端</a></li>
+						<li class="list_item"><a href="emergency.shtml#front_end_terminal_3g_ofdm">3G/OFDM双模单兵终端</a></li>
+						<li class="list_item"><a href="emergency.shtml#front_end_terminal_satellite">单兵背负式卫星便携站</a></li>
+					</ul>
+				</div>
+				<div class="list_item"><a href="emergency.shtml#vehicle_moving_com">车载动中通设备</a></div>
+				<div>
+					<ul style="margin:0;padding-left:25px;">
+						<li class="list_item"><a href="emergency.shtml#vehicle_moving_com_salellite">卫星动中通系统</a></li>
+						<li class="list_item"><a href="emergency.shtml#vehicle_3g">3G车载终端</a></li>
+						<li class="list_item"><a href="emergency.shtml#ofdm_receiver">OFDM车载接收机</a></li>
+					</ul>
+				</div>
+				<div class="list_item"><a href="emergency.shtml#platform">应急指挥视频通信系统</a></div>
+				<div>
+					<ul style="margin:0;padding-left:25px;">
+						<li class="list_item"><a href="emergency.shtml#management_server">管理服务器平台</a></li>
+						<li class="list_item"><a href="emergency.shtml#gateway">多媒体网关</a></li>
+						<li class="list_item"><a href="emergency.shtml#nvr">录像服务器</a></li>
+						<li class="list_item"><a href="emergency.shtml#big_screen">大屏输出终端</a></li>
+					</ul>
+				</div>
+			</div>	
+		</div>
+		<div class="box" id="box3">
+			<div class="arrow" style="display:none" id="arrow3"></div>
+			<div class="headline list_item"><a href="ipvideo.shtml">网络视频监控系统</a></div>
+			<div class="list">
+				<div class="list_item"><a href="ipvideo.shtml#encoder">网络视频编码器</a></div>
+				<div>
+					<ul style="margin:0;padding-left:25px;">
+						<li class="list_item"><a href="ipvideo.shtml#sv4000">高清网络视频编解码器</a></li>
+						<li class="list_item"><a href="ipvideo.shtml#sv2000">标清网络视频编解码器</a></li>
+					</ul>
+				</div>
+				<div class="list_item"><a href="ipvideo.shtml#ipcamera">网络摄像机</a></div>
+				<div>
+					<ul style="margin:0;padding-left:25px;">
+						<li class="list_item"><a href="ipvideo.shtml#sv5000">高清1080P网络摄像机</a></li>
+						<li class="list_item"><a href="ipvideo.shtml#sv3000">高清720P网络摄像机</a></li>
+					</ul>
+				</div>
+				<div class="list_item"><a href="ipvideo.shtml#ipvideo">网络视频监控管理平台</a></div>
+				<div class="list_item"><a href="ipvideo.shtml#meeting">H.323网络高清视频会议终端</a></div>
+			</div>	
+		</div>
+		<div class="box" id="box4">
+			<div class="arrow" style="display:none" id="arrow4"></div>
+			<div class="headline list_item"><a href="microwave.shtml">微波产品</a></div>
+			<div class="list">
+				<div class="list_item"><a href="microwave.shtml#transmitter">COFDM无线图传设备</a></div>
+				<div class="list_item"><a href="microwave.shtml#bridge">COFDM无线移动网桥</a></div>
+				<div class="list_item"><a href="microwave.shtml#matrix">开关矩阵设备</a></div>
+			</div>	
+		</div>
+		<div class="box" id="box5">
+			<div class="arrow" style="display:none" id="arrow5"></div>
+			<div class="headline list_item"><a href="si.shtml">系统集成</a></div>
+			<div class="list">
+				<div class="list_item"><a href="si.shtml#ss">安防监控工程</a></div>
+				<div class="list_item"><a href="si.shtml#emergency">应急指挥系统</a></div>
+				<div class="list_item"><a href="si.shtml#network">计算机网络系统集成</a></div>
+				<div class="list_item"><a href="si.shtml#com">通信系统工程</a></div>
+			</div>	
+		</div>
+		<div class="box" id="box6">
+			<div class="arrow" style="display:none" id="arrow6"></div>
+			<div class="headline list_item"><a href="agent.shtml">设备代理</a></div>
+			<div class="list">
+				<div class="list_item"><a href="agent.shtml#emergency">应急救援装备</a></div>
+				<div class="list_item"><a href="agent.shtml#safety">安全生产监督及职业卫生监测设备</a></div>
+				<div class="list_item"><a href="agent.shtml#nase">NASE主机安全防护软件</a></div>
+			</div>	
+		</div>
+	</div>
+<div style="clear:both;"></div>		
+</div>
+<!--#include virtual="../includes/bottom.html"-->

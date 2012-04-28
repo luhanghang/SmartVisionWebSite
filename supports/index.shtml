@@ -1,0 +1,108 @@
+<!--#include virtual="../includes/top.html"-->
+<script type="text/javascript">
+	menu_item_selected('4');
+	append_title("技术与支持");
+	function show_sub_menu(index) {
+		for(var i = 1; i < 9; i++) {
+			var sm = document.getElementById("sm_" + i);
+			if(sm) sm.style.display = 'none';
+		}
+		if(index == '') index = 1;
+		if(index == 4) {
+			return;
+		}
+		sm = document.getElementById("sm_" + index);
+		if(sm) sm.style.display = 'block';
+	}
+</script>
+
+<style type="text/css">
+	
+</style>
+
+<div style="background-color:#fff;border-bottom:1px solid #ccc"><h2>» <a href="#">技术与支持</a></h2></div>
+<div id="div_content" style="background-color:#fff;">
+	<div style="float:left;padding-left:20px;width:100px;padding-top:20px">
+		<div>资料下载</div>
+		<!--<div><a href="faq.shtml">常见问题</a></div>-->
+		<div><a href="http://124.206.31.63" target="_blank">在线视频演示</a></div>
+		<div><a href="mailto:bjsmartvision@sina.com">客户留言</a></div>
+	</div>
+	<div style="float:left;border-left:1px solid #ccc;padding:50px;padding-top:20px;width:770px">
+		<a href="/download/support/4g_1.pdf" target="_blank">
+			<div class="pdf">
+				<img src="/images/pdf.png">
+				<div>4G-Live单卡直播终端</div>
+			</div>
+		</a>
+		<a href="/download/support/4g_2.pdf" target="_blank">
+			<div class="pdf">
+				<img src="/images/pdf.png">
+				<div>4G-Live双卡直播终端</div>
+			</div>
+		</a>
+		<a href="/download/support/4g_7.pdf" target="_blank">
+			<div class="pdf">
+				<img src="/images/pdf.png">
+				<div>4G-Live多卡直播终端</div>
+			</div>
+		</a>
+		<a href="/download/support/4g_m.pdf" target="_blank">
+			<div class="pdf">
+				<img src="/images/pdf.png">
+				<div>4G-Live手机直播终端</div>
+			</div>
+		</a>
+		<a href="/download/support/SV2000.pdf" target="_blank">
+			<div class="pdf">
+				<img src="/images/pdf.png">
+				<div>SV2000标清编解码器</div>
+			</div>
+		</a>
+		<a href="/download/support/SV4000.pdf" target="_blank">
+			<div class="pdf">
+				<img src="/images/pdf.png">
+				<div>SV4000标清编解码器</div>
+			</div>
+		</a>
+		<a href="/download/support/SV5032M.pdf" target="_blank">
+			<div class="pdf">
+				<img src="/images/pdf.png">
+				<div>SV5032M高清网络智能Mini球机</div>
+			</div>
+		</a>
+		<a href="/download/support/SV5022.pdf" target="_blank">
+			<div class="pdf">
+				<img src="/images/pdf.png">
+				<div>SV5022高清网络枪机</div>
+			</div>
+		</a>
+		<a href="/download/support/SV5012.pdf" target="_blank">
+			<div class="pdf">
+				<img src="/images/pdf.png">
+				<div>SV5012高清网络半球</div>
+			</div>
+		</a>
+		<a href="/download/support/SV5032.pdf" target="_blank">
+			<div class="pdf">
+				<img src="/images/pdf.png">
+				<div>SV5032高清网络智能球机</div>
+			</div>
+		</a>
+		<a href="/download/support/transmiter.pdf" target="_blank">
+			<div class="pdf">
+				<img src="/images/pdf.png">
+				<div>无线图传发射机</div>
+			</div>
+		</a>
+		<a href="/download/support/receiver.pdf" target="_blank">
+			<div class="pdf">
+				<img src="/images/pdf.png">
+				<div>无线图传接收机</div>
+			</div>
+		</a>
+	</div>
+	<div style="clear:both"></div>
+</div>
+
+<!--#include virtual="../includes/bottom.html"-->

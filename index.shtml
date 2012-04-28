@@ -1,0 +1,234 @@
+<!--#include file="includes/top.html"-->
+<style type="text/css">
+	.news_title {
+		width: 205px;
+	}
+</style>
+
+<div id="welcome">欢迎来到四维通联</div>
+<div id="banner"></div>
+<div id="div_content">
+	<div id="news" class="content_block">
+		<a href="news.shtml"><img class="more" src="images/more.jpg" border="0"/></a>
+		<div id="news_title" style="float:left;"><h2 style="margin-top:-3px">» <a href="news.shtml" >新闻中心</a></h2> </div>
+		<div style="float:left;margin-left:30px">
+			<div class="news_item">
+				<div class="news_date">2012.2</div>
+				<div class="news_title"><a href="news.shtml#2012021">新版网站上线</a></div>
+			</div>
+			<div class="news_item">
+				<div class="news_date">2012.2</div>
+				<div class="news_title"><a href="news.shtml#2012022">单卡紧凑型便携视频直播终端上市</a></div>
+			</div>
+			<div class="news_item">
+				<div class="news_date">2012.1</div>
+				<div class="news_title"><a href="news.shtml#2012011">3G视频终端通过TD-LTE测试</a></div>
+			</div>
+		</div>
+		<div style="float:left;margin-left:30px">
+			<div class="news_item">
+				<div class="news_date">2011.10</div>
+				<div class="news_title"><a href="news.shtml#2011101">推出3G/OFDM双模终端</a></div>
+			</div>
+			<div class="news_item">
+				<div class="news_date">2011.9</div>
+				<div class="news_title"><a href="news.shtml#2011091">发布手机爆料软件</a></div>
+			</div>
+			<div class="news_item">
+				<div class="news_date">2011.8</div>
+				<div class="news_title"><a href="news.shtml#2011081">3G多卡直播终端上市销售</a></div>
+			</div>
+		</div>
+		<div style="float:left;margin-left:30px">
+			<div class="news_item">
+				<div class="news_date">2011.7</div>
+				<div class="news_title"><a href="news.shtml#2011071">短波矩阵开关设备定型</a></div>
+			</div>
+			<div class="news_item">
+				<div class="news_date">2011.6</div>
+				<div class="news_title"><a href="news.shtml#2011061">山西某地在线工地监控项目圆满完成</a></div>
+			</div>
+			<div class="news_item">
+				<div class="news_date">2011.4</div>
+				<div class="news_title"><a href="news.shtml#2011041">四维通联公司推出服务器安全防护系统</a></div>
+			</div>
+		</div>
+	</div>
+	<div style="width:100%;height:358px;">
+		<div class="content_block" style="width:300px;height:357px;float:left;">
+			<div>
+				<h2>» <a href="products" >热门产品</a></h2>
+			</div>
+			<div id="hotproducts" class="hotproducts"></div>
+			<div id="slideshowtoggler" style="display:none">
+				<a href="#" class="prev" style="font-size:20px;font-weight:bold">&lt;</a> 
+				<span class="status" style="margin:0 90px; font-weight:bold"></span> 
+				<a href="#" class="next" style="font-size:20px;font-weight:bold">&gt;</a>
+			</div>
+		</div>
+		<div class="content_block" style="margin-left:1px;width:697px;height:357px;float:left">
+			<div class="block_title">
+				<h2>» <a href="about-us.shtml" >
+					公司介绍
+					<img class="more" src="images/more.jpg" border="0"/>
+				</a>
+				</h2>
+			</div>
+			<a href="about-us.shtml" class="normal" >
+				<div style="padding-left:20px;">
+					<p>	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			北京四维通联科技有限公司,位于北京中关村高科技园区，是一家的具有十年以上专业研发应用背景的高新技术企业。公司自成立以来，以研究、引进、推动高新技术在中国的应用为己任，利用自身科技领先、技术全面的优势，专业从事网络视频产品、数字无线图传产品、微波通信系统研发及应用，以及安防监控、计算机网络、通信系统工程集成及施工。公司经过多年的项目积累，形成独具特色的产品开发、行销、施工管理经验，并已成功通过了ISO9001质量管理体系认证，成为一家集智能化计算机网络与多媒体系统集成、应用技术开发为一体的综合性高新技术实体。公司产品及服务广泛应用于广电、公安、武警、国防、安全、交通、人防等系统，得到用户的一致好评。
+					</p>
+					<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+公司硬件研发队伍由一批数字图像处理、嵌入式系统、无线电通信领域的资深专家组成，在业内均有多年的研发从业经验。作为国内网络视频技术的先驱和领导者，公司陆续推出MPEG2/4和H.264编解码器、网络摄像机、无线图传产品、微波切换矩阵等产品。特别是公司顺应3G/4G移动通信系统的发展，迎合当前应急指挥、移动视频传输的市场需求，及时推出了3G/4G视频直播系统和解决方案，迅速占领了新闻现场直播、应急指挥、应急监测和救援、移动执法等市场......
+					</p>
+				</div>
+			</a>	
+		</div>
+	</div>
+	<div style="width:100%;height:208px;">
+		<div class="content_block" style="width:200px;height:207px;float:left">
+			<div>
+				<h2>» <a href="supports" >技术与支持</a>
+				</h2>
+			</div>	
+			<div style="width:70%;margin:0 auto">
+				<div><a href="/supports">资料下载</a></div>
+				<!--<div><a href="/supports/faq.shtml">常见问题</a></div>-->
+				<div><a href="http://124.206.31.63" target="_blank">在线视频演示</a></div>
+				<div><a href="mailto:bjsmartvision@sina.com">客户留言</a></div>
+			</div>
+		</div>
+		<div class="content_block" style="margin-left:1px;width:797px;height:207px;float:left">
+			<div class="block_title">
+				<h2>» <a href="/solutions" >
+					解决方案
+				</a>
+				</h2>
+			</div>
+			<div style="margin-left:30px">
+				<a href="/download/solution/3G_News_Broadcast.pdf" target="_blank">
+					<div class="pdf">
+						<img src="/images/pdf.png">
+						<div>3G新闻直播系统方案</div>
+					</div>
+				</a>
+				<a href="/download/solution/3G_Mobile_Enforce_Law.pdf" target="_blank">
+					<div class="pdf">
+						<img src="/images/pdf.png">
+						<div>3G无线视频移动执法方案</div>
+					</div>
+				</a>
+				<a href="/download/solution/3G_Police.pdf" target="_blank">
+					<div class="pdf">
+						<img src="/images/pdf.png">
+						<div>公安系统3G视频移动执法方案</div>
+					</div>
+				</a>
+				<a href="/download/solution/3G_Emergency.pdf" target="_blank">
+					<div class="pdf">
+						<img src="/images/pdf.png">
+						<div>应急指挥通信系统介绍</div>
+					</div>
+				</a>
+			</div>
+		</div>
+	</div>
+	<div style="overflow:hidden" class="content_block">	
+		<div id="product_slider" style="margin-left:0" onmouseover="pause=true" onmouseout="pause=false">
+			<div>
+				<a href="/products/4glive.shtml#3gbox1" target="_blank"><img src="/images/products/thumbnails/3gbox1.jpg"/></a>
+				<div><a href="/products/4glive.shtml#3gbox1" target="_blank">3g单卡终端</a></div>
+			</div>
+			<div>
+				<a href="/products/4glive.shtml#3gbox1" target="_blank"><img src="/images/products/thumbnails/3gbox2.jpg"/></a>
+				<div><a href="/products/4glive.shtml#3gbox2" target="_blank">3g双卡终端</a></div>
+			</div>
+			<div>
+				<a href="/products/4glive.shtml#3gbox7" target="_blank"><img src="/images/products/thumbnails/3gbox7.jpg"/></a>
+				<div><a href="/products/4glive.shtml#3gbox7" target="_blank">3g多卡终端</a></div>
+			</div>
+			<div>
+				<a href="/products/4glive.shtml#ipvideo_m" target="_blank"><img src="/images/products/thumbnails/ipvideom.jpg"/></a>
+				<div><a href="/products/4glive.shtml#ipvideo_m" target="_blank">3G手机直播终端</a></div>
+			</div>
+			<div>
+				<a href="/products/emergency.shtml#front_end_terminal_3g" target="_blank"><img src="/images/products/thumbnails/fe3g.jpg"/></a>
+				<div><a href="/products/emergency.shtml#front_end_terminal_3g" target="_blank">3G单兵终端</a></div>
+			</div>
+			<div>
+				<a href="/products/microwave.shtml#transmitter" target="_blank"><img src="/images/products/thumbnails/4glivehd1080i.jpg"/></a>
+				<div><a href="/products/microwave.shtml#transmitter" target="_blank">HD1080i发射机</a></div>
+			</div>
+			<div>
+				<a href="/products/microwave.shtml#bridge" target="_blank"><img src="/images/products/thumbnails/vehicle-bridge.jpg"/></a>
+				<div><a href="/products/microwave.shtml#bridge" target="_blank">COFDM无线移动网桥</a></div>
+			</div>
+			<div>
+				<a href="/products/ipvideo.shtml#sv4000" target="_blank"><img src="/images/products/thumbnails/sv4000-normal.jpg"/></a>
+				<div><a href="/products/ipvideo.shtml#sv4000" target="_blank">高清网络视频编码器</a></div>
+			</div>
+			<div>
+				<a href="/products/ipvideo.shtml#sv2000" target="_blank"><img src="/images/products/thumbnails/sv2000-3.jpg"/></a>
+				<div><a href="/products/ipvideo.shtml#sv2000" target="_blank">标清网络视频编码器</a></div>
+			</div>
+			<div>
+				<a href="/products/emergency.shtml#big_screen" target="_blank"><img src="/images/products/thumbnails/big_screen.jpg"/></a>
+				<div><a href="/products/emergency.shtml#big_screen" target="_blank">大屏输出终端</a></div>
+			</div>
+			<div>
+				<a href="/products/4glive.shtml#gateway" target="_blank"><img src="/images/products/thumbnails/gateway.jpg"/></a>
+				<div><a href="/products/4glive.shtml#gateway" target="_blank">3G多媒体网关</a></div>
+			</div>
+			<div>
+				<a href="/products/emergency.shtml#nvr" target="_blank"><img src="/images/products/thumbnails/emergency-nvr.jpg"/></a>
+				<div><a href="/products/emergency.shtml#nvr" target="_blank">录像服务器</a></div>
+			</div>
+			<div>
+				<a href="/products/emergency.shtml#ofdm_receiver" target="_blank"><img src="/images/products/thumbnails/ofdm_receiver.jpg"/></a>
+				<div><a href="/products/emergency.shtml#ofdm_receiver" target="_blank">OFDM车载接收机</a></div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<script type="text/javascript">
+	var mygallery=new fadeSlideShow({
+			wrapperid: "hotproducts", 
+			dimensions: [250, 290], 
+			imagearray: [
+				["/images/products/hot/1.jpg", "/products/4glive.shtml#3gbox2", "_new", "3G双卡终端"],
+				["/images/products/hot/2.jpg", "/products/ipvideo.shtml#sv4000", "_new", "高清网络视频编码器"],
+				["/images/products/hot/3.jpg", "/products/4glive.shtml#3gbox7", "_new", "3G多卡终端"],
+				["/images/products/hot/4.jpg", "/products/emergency.shtml#front_end_terminal_3g", "_new", "3G单兵终端"]
+			],
+			displaymode: {type:'auto', pause:5000, cycles:0, wraparound:false},
+			persist: false, 
+			fadeduration: 500,
+			descreveal: "always",
+			togglerid: ""});
+			
+	window.onload = init;
+	
+	var mainWidth,sliderWidth,slider;	
+	var offset = 2;
+	var pause = false;
+	
+	function init() {
+		var mainDiv = document.getElementById("main");
+		mainWidth = main.clientWidth;
+		slider = document.getElementById("product_slider");
+		sliderWidth = slider.clientWidth;
+		setInterval("productsSlide()", 100);					
+	}
+	
+	function productsSlide() {
+		if(pause) return;
+		var margin = parseInt(slider.style.marginLeft);
+		if (margin >= 0 || margin <= mainWidth - sliderWidth ) {
+			offset *= -1;
+		}	
+		slider.style.marginLeft = (margin + offset) + "px";
+	}
+</script>
+<!--#include file="includes/bottom.html"-->

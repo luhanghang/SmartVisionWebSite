@@ -1,0 +1,17 @@
+<!--#include file="includes/top.html"-->
+<script type="text/javascript">
+	menu_item_selected('8');
+	append_title("联系方式");
+</script>
+
+<div><h2>» <a href="#">联系方式</a></h2></div>
+<div style="height:500px;margin:50px;">
+	<pre style="font-size:14px;color:#666">
+	地址：北京市海淀区上地信息路28号A5-1-05 
+	邮编：100085
+	电话：010-51288600
+	传真：010-64421724
+	E-mail：bjsmartvision@sina.com
+	</pre>
+</div>
+<!--#include file="includes/bottom.html"-->
