@@ -11,12 +11,19 @@ function menu_item_selected(index) {
 function show_sub_menu(index) {
 	for(var i = 1; i < 9; i++) {
 		var sm = document.getElementById("sm_" + i);
-		if(sm) sm.style.display = 'none';
+		if(sm) {
+			//sm.style.display = 'none';
+			sm.style.height = '0';
+			sm.className = "submenu";
+		}
 	}		
 	
 	if(index == '') index = 1;
 	sm = document.getElementById("sm_" + index);
-	if(sm) sm.style.display = 'block';
+	if(sm) {
+		//sm.style.display = 'block';
+		sm.className = "submenu1";
+	}
 }
 
 function register_list_items() {

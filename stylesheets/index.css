@@ -242,12 +242,12 @@ td.right {
 	font-size: 14px;
 }
 
-.submenu {
+.submenu, .submenu1 {
 	position: absolute;
-	height:auto;
+	height: 0;
 	font-size: 12px;
+	overflow-x:hidden;
 	top:25px;
-	padding: 5px;
 	border-radius: 5px;
 	box-shadow: 1px 3px 5px #333;
 	-moz-box-shadow: 1px 3px 5px #333;
@@ -255,6 +255,15 @@ td.right {
 	filter: progid:DXImageTransform.Microsoft.Shadow(Strength=3, Direction=135, Color='#333333');
 	-ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=3, Direction=135, Color='#333333')";
 	background-color: #fff;
+	-webkit-transition: height .5s ease;
+	-moz-transition: height .5s ease;
+	-o-transition: height .5s ease;
+	-ms-transition: height .5s ease;
+	transition: height .5s ease;
+}
+
+.submenu1 {
+	padding: 5px;
 }
 
 .submenu_item {
