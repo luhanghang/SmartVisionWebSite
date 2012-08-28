@@ -73,11 +73,12 @@
 		</div>
 		<div class="box" id="box4">
 			<div class="arrow" style="display:none" id="arrow4"></div>
-			<div class="headline list_item"><a href="microwave.shtml">微波产品</a></div>
+			<div class="headline list_item"><a href="communication.shtml">无线通信产品</a></div>
 			<div class="list">
-				<div class="list_item"><a href="microwave.shtml#transmitter">COFDM无线图传设备</a></div>
-				<div class="list_item"><a href="microwave.shtml#bridge">COFDM无线移动网桥</a></div>
-				<div class="list_item"><a href="microwave.shtml#matrix">开关矩阵设备</a></div>
+				<div class="list_item"><a href="communication.shtml#idirect">idirect卫星通信系统产品</a></div>
+				<div class="list_item"><a href="communication.shtml#transmitter">COFDM无线图传设备</a></div>
+				<div class="list_item"><a href="communication.shtml#bridge">COFDM无线移动网桥</a></div>
+				<div class="list_item"><a href="communication.shtml#matrix">开关矩阵设备</a></div>
 			</div>	
 		</div>
 		<div class="box" id="box5">
@@ -87,7 +88,7 @@
 				<div class="list_item"><a href="si.shtml#ss">安防监控工程</a></div>
 				<div class="list_item"><a href="si.shtml#emergency">应急指挥系统</a></div>
 				<div class="list_item"><a href="si.shtml#network">计算机网络系统集成</a></div>
-				<div class="list_item"><a href="si.shtml#com">通信系统工程</a></div>
+				<div class="list_item"><a href="si.shtml#com">无线通信系统工程</a></div>
 			</div>	
 		</div>
 		<div class="box" id="box6">

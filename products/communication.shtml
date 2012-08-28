@@ -1,6 +1,6 @@
 <!--#include virtual="top.shtml"-->
 <script type=text/javascript>
-	append_title("微波产品");
+	append_title("无线通信产品");
 	window.onload = function() {
 		set_selected_box(4);
 	}	
@@ -8,7 +8,7 @@
 
 <div class="shadow_box_bottom product_top">
 	<div style="float:left;width:300px;padding-left:10px">
-		<h2>» <a href="#">微波产品</a></h2>
+		<h2>» <a href="#">无线通信产品</a></h2>
 	</div>
 	<div style="float:left;width:688px;text-align:right;padding-top:25px;position:relative">
 		<div style="position:absolute;background-color:#fff;height:50px;width:10px;right:-10px;bottom:-25px"></div>	
@@ -29,9 +29,93 @@
 		主要产品有：
 	</div>
 	<ul>
+		<li>idirect卫星通信系统产品</li>
 		<li>COFDM无线图传设备（发射机、接收机）</li>
 		<li>COFDM无线移动网桥</li>
 		<li>设备矩阵开关设备</li>
+	</ul>
+	
+	<h3><a name="idirect">idirect卫星通信系统产品</a></h3>
+	<div class="paragraph">
+		美国iDirect公司是卫星宽带接入解决方案领域的行业领导者。iDirect的卫星IP通信技术能够在各种环境下支持话音、视频和数据的顺利应用，包括企业网络远程机构互连，陆地、海上和空中的移动通信，农村地区电话和互联网宽带服务，提供灾难应急通信等。
+北京四维通联科技有限公司提供全系列美国iDirect卫星主站小站设备及VSAT网络解决方案。
+	</div>
+	<h4>一、idirect卫星通信系统介绍</h4>
+	<div class="paragraph">
+		iDirect提供业界唯一从底层设计支持IP（纯IP）的双向卫星通信系统，采用TDM/TDMA技术体制。
+在主站下行（出向）的大广播载波上采用DVB-S2封装技术、或采用iDirect专利的INFINITI 封装技术。
+	</div>
+	<div class="news_image">
+		<img src="/images/products/idirect.png" width="500"/>
+	</div>
+	<div class="paragraph">
+		在小站上行载波上，iDirect使用专利的确定性TDMA访问方案，以带宽高效利用的方式来快速响应小站的带宽分配请求。同时，iDirect DVB-S2系列还支持SCPC回传模式，一个网络中可以存在TDMA回传和SCPC回传，以支持较大传输带宽的业务需求。同种小站硬件既可实现TDMA也可实现SCPC回传。
+iDirect允许在单个主站机箱同时连接多达5颗不同的卫星、或5个不同的频段，在单个机箱同时支持多个输入/输出载波。该体系结构使网络运营商节约大量的成本开销，无需多套主站设备的开支即可支持多颗卫星、多频段。
+	</div>
+	<h4>二、iDirect网络结构图</h4>	
+	<div class="paragraph">
+		无论是主站，还是小站设备，iDirect同样的硬件/软件，只要作不同的参数设置，即可支持多种应用拓朴结构（星状、星状/网状、SCPC回传和SCPC点到点），可以灵活组网以满足不同客户的要求。网状组网可以单跳实现小站之间的直接通信，大大缩短卫星时延，有效地保证话音/视频等实时业务的服务质量。
+
+iDirect系统性能非常可靠，支持LDPC、TPC编码和16APSK、8PSK、QPSK、BPSK等先进的编码和调制功能，即使口径相对较小的天线和低瓦数功放也能获得很好的通信效果。同时系统内置自动上行功率控制，可确保在恶劣天气下的系统正常工作。
+	</div>
+	<div class="news_image">
+		<img src="/images/products/idirect_struct.png" width="600"/>
+	</div>
+	
+	<h4>三、iDirect系统特点</h4>
+	<ul>	
+		<li><b>强大的IP功能</b></li> 
+纯IP数据封装，与地面路由器无缝结合
+标配内置TCP/IP协议加速功能
+支持IP动态路由、静态路由
+全面匹配IP数据流的各项特征以支持Qos
+支持VLAN 802.1Q，支持基于VLAN标志的Qos
+支持DHCP、DHCP Relay、DNS Caching、NAT、过滤表
+内置8端口以太网交换机，支持每小站多VLAN
+先进的组Qos（GQos）
+UDP包头压缩、CRTP压缩、TCP数据包压缩、UDP数据包压缩
+
+		<li><b>灵活性</b></li> 
+同一主站、同一网管支持多星、多频段、多网络、多出向
+同一主站、同一网管支持星状、网状、SCPC点到点混合组网
+同一主站、同一网管支持TDMA和SCPC回传
+
+
+		<li><b>最佳的主站技术</b></li> 
+所有功能部件均内置，便于网管、维护、升级
+电信级设备冗余标准–全冗余
+系统结构高度集成化，体积小–12U 19” 机架
+单个主站最多可同时支持5颗卫星、5个频段
+单个主站多网络、多出向载波
+
+
+		<li><b>最有效的利用卫星带宽</b></li> 
+D-TDMA（确定性TDMA）保证高达98%的载荷效率
+自动上行链路功率、频率偏差、定时偏差控制确保有效的TDMA帧结构
+下行载波1Ksps载波调节步进，上行载波1bps载波调节步进，最高效地利用带宽
+
+
+		<li><b>强大的Qos机制（Quality of Service）</b> </li>
+最完整的IP数据流特征识别(源/目标IP地址, 源/目标端口号, 802.1q VLAN标志, IP DiffServ & TOS Bits, 协议类型)
+Group QoS –在小站之间、小站组之间进行有效的共享控制
+
+		<li><b>业内领先的网络管理系统（Global NMS）</b></li> 
+同一网管管理多星、多频段、多网络、多主站、多出向、多组网拓朴；
+功能最全面、操作最简单/易用；
+丰富的图形信息输出，全面的网管辅助工具；
+能以SNMP、数据库ODBC操作等多种形式配合用户的二次网管开发
+
+
+		<li><b>性能</b></li> 
+拥有业内最高的每载波TCP/IP容量(156Mb/s下行数据流–10Mb/s上行数据流)
+上/下行载波速率调整1b/s的步进
+快速跳频(MF-TDMA)与快速带宽分配相结合
+
+		<li><b>安全性</b></li> 
+支持VPN和GRE隧道加速
+端对端的VLAN(802.1q ) 
+可选的AES、TRANSEC加密技术
+主站与小站之间的序列号身份认证、及更高级的X.509数字签名认证
 	</ul>
 	
 	<h3><a name="transmitter">COFDM无线图传设备</a></h3>
