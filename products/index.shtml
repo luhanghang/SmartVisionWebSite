@@ -24,20 +24,19 @@
 
 <style type="text/css">
 	div.submenu_item {
-		border-top: 1px solid #bbb;
 		margin:0;
 		text-indent: 15px;
 		padding-top: 10px;
 		height: 490px;
 	}	
 	
+	div.submenu_itemx {
+		border-top: 1px solid #bbb;
+	}
+	
 	.submenu_item1 {
 		padding-top: 0;
 		padding-bottom: 5px;
-	}
-	
-	.submenu_item1,.submenu_item2 {
-		text-indent: 10px;
 	}
 
 	ul {
@@ -48,7 +47,7 @@
 
 <div style="background-color:#fff"><h2>» <a href="#">产品中心</a></h2></div>
 <div id="div_content" style="background-color:#fff">
-	<div class="submenu_item">
+	<div class="submenu_item submenu_itemx">
 		<div class="submenu_item1" style="width:145px">
 			<a href="4glive.shtml">4G-Live直播系统</a>
 		</div>
@@ -64,7 +63,7 @@
 		<div class="submenu_item2"><a href="4glive.shtml#gateway">媒体服务器</a></div>
 		<div class="submenu_item2"><a href="4glive.shtml#nvr">录播服务器</a></div>
 	</div>
-	<div class="submenu_item" style="width:185px;">
+	<div class="submenu_item submenu_itemx" style="width:185px;">
 		<div class="submenu_item1"><a href="emergency.shtml">应急指挥视频通信系统</a></div>								
 			<div class="submenu_item2"><a href="emergency.shtml#front_end_terminal">前端单兵设备</a></div>
 			<div class="submenu_item2">
@@ -95,7 +94,7 @@
 			</div>
 		<div style="height:50px;"></div>
 	</div>
-	<div class="submenu_item" style="width:185px;">
+	<div class="submenu_item submenu_itemx" style="width:185px;">
 		<div class="submenu_item1">
 			<a href="ipvideo.shtml">网络视频监控系统</a>
 		</div>
@@ -116,16 +115,18 @@
 		<div class="submenu_item2"><a href="ipvideo.shtml#ipvideo">网络视频监控管理平台</a></div>
 		<div class="submenu_item2"><a href="ipvideo.shtml#meeting">H.323网络高清视频会议终端</a></div>
 	</div>
-	<div class="submenu_item" style="width:145px;">
+	<div class="submenu_item submenu_itemx" style="width:145px;">
 		<div class="submenu_item1">
 			<a href="communication.shtml">无线通信产品</a>
 		</div>
 		<div class="submenu_item2"><a href="communication.shtml#idirect">idirect卫星通信系统产品</a></div>
+		<div class="submenu_item2"><a href="communication.shtml#breezenet">百兆无线宽带网桥</a></div>
+		<div class="submenu_item2"><a href="communication.shtml#breezemax">Wimax无线宽带接入系统</a></div>
 		<div class="submenu_item2"><a href="communication.shtml#transmitter">COFDM无线图传设备</a></div>
 		<div class="submenu_item2"><a href="communication.shtml#bridge">COFDM无线移动网桥</a></div>
 		<div class="submenu_item2"><a href="communication.shtml#matrix">开关矩阵设备</a></div>
 	</div>
-	<div class="submenu_item" style="width:135px;">
+	<div class="submenu_item submenu_itemx" style="width:135px;">
 		<div class="submenu_item1">
 			<a href="si.shtml">系统集成</a>
 		</div>
@@ -134,7 +135,7 @@
 		<div class="submenu_item2"><a href="si.shtml#network">计算机网络系统集成</a></div>
 		<div class="submenu_item2"><a href="si.shtml#com">无线通信系统工程</a></div>
 	</div>
-	<div class="submenu_item" style="margin-right:0;border-right:0">
+	<div class="submenu_item submenu_itemx" style="margin-right:0;border-right:0">
 		<div class="submenu_item1">
 			<a href="agent.shtml">设备代理</a>
 		</div>
