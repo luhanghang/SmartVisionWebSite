@@ -1,0 +1,9 @@
+DefaultVendor= 0x12d1 
+DefaultProduct=0x1505 
+
+
+MessageContent="55534243123456780000000000000011062000000100000000000000000000"
+
+usb_modeswitch -I -W -c 12d1\:1505
+
+echo -n "12d1 1505" > /sys/bus/usb-serial/drivers/option1/new_id 
