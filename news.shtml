@@ -8,9 +8,49 @@
 <div><h2>» <a href="#">新闻中心</a></h2></div>
 <div id="div_content" style="width:90%;margin:0 auto;background-color:#fff;margin-top:30px;position:relative;">
 <div style="text-align:right;position:absolute;right:5px;top:-52px;">
-	<a href="#2012" class="year">2012</a> . <a href="#2011" class="year">2011</a> . <a href="#2010" class="year">2010</a> . <a href="#2009" class="year">2009</a> . <a href="#2008" class="year">2008</a>
+	<a href="#2013" class="year">2013</a> . <a href="#2012" class="year">2012</a> . <a href="#2011" class="year">2011</a> . <a href="#2010" class="year">2010</a> . <a href="#2009" class="year">2009</a> . <a href="#2008" class="year">2008</a>
 </div>
-	<div class="news-item"><a name="2012"></a><a name="2012061"></a>
+	<div class="news-item"><a name="2013"></a><a name="2013021"></a>
+		<div class="news-title">公司再次通过高新技术企业认定</div>
+		<div class="news-date">2013.2</div>
+		<div class="news-content">
+			公司近日收到了由北京市科学技术委员会、北京市财政局、北京市国税局、北京市地税局联合签发的《高新技术企业证书》（证书编号为：GR201211001050），有效期为三年。根据相关规定，本次通过高新技术企业认定后，公司将连续3年（2013年至2015年）享受国家关于高新技术企业的相关优惠政策，并按15%的税率征收企业所得税。
+		</div>
+	</div>
+	<div class="news-item"><a name="2012"></a><a name="2012121"></a>
+		<div class="news-title">推出基于TD-LTE技术的宽带多媒体指挥调度系统</div>
+		<div class="news-date">2012.12</div>
+		<div class="news-content">
+			北京四维通联科技有限公司最新推出基于TD-LTE技术的4G宽带多媒体指挥调度系统及解决方案。该系统使用最新TD-LTE技术，可在应急事故发生后，快速建立4G无线覆盖网络，通过使用多种用户接入终端，为应急救援活动提供集语音集群、宽带数据传输和视频调度的一体化解决方案。
+		</div>
+	</div>
+	<div class="news-item"><a name="2012101"></a>
+		<div class="news-title">承建 “中国地震背景场探测（卫星通信系统 ）项目”</div>
+		<div class="news-date">2012.10</div>
+		<div class="news-content">
+			日前北京四维通联科技有限公司中标“中国地震背景场探测（卫星通信系统 ）项目”，该项目采用美国iDirect卫星通信平台，为中国地震背景场项目观测台网中测震台站提供VSAT卫星线路服务。
+		</div>
+		<div class="news-content">
+			iDirect公司成立于1994年，总部位于美国弗吉尼亚州，在欧洲、亚洲、中东和拉丁美洲均设有分支机构。被评为美国发展最快的50家企业之一及全世界发展最快的VSAT行业公司。iDirect的卫星IP通信技术能够在各种环境下支持话音、视频和数据的顺利应用，包括企业网络远程机构互连，陆地、海上和空中的移动通信，农村地区电话和互联网宽带服务，提供灾难应急通信等
+		</div>
+	</div>
+	<div class="news-item"><a name="2012081"></a>
+		<div class="news-title">关于冒用我公司名义进行电话充值卡虚假诈骗宣传声明！</div>
+		<div class="news-date">2012.8</div>
+		<div class="news-content">
+近期，互联网上有假冒我公司名义的网站向客户提供电信电话充值卡售卖虚假诈骗宣传，对此我公司郑重声明：公司从未从事任何与电话充值卡售卖相关的活动，对于冒用给我公司名义进行相关产品宣传的网站，我们已经向公安机关举报，公安机关已经进行处理。
+		</div>
+		<div class="news-content">
+			同时我公司唯一合法对外官方网站地址为：www.4g-live.com，其他任何以北京四维通联科技有限公司名义的网站均以我公司无任何关系，敬请我公司新老客户注意，谨防上当。
+		</div>
+		<div class="news-content">
+			特此声明
+		</div>
+		<div class="news-content">
+			本声明最终解释权归北京四维通联科技有限公司所有。
+		</div>
+	</div>
+	<div class="news-item"><a name="2012061"></a>
 		<div class="news-title">四维通联公司同中国电信北京分公司达成合作协议</div>
 		<div class="news-date">2012.6</div>
 		<div class="news-content">

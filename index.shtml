@@ -13,19 +13,37 @@
 		<div id="news_title" style="float:left;"><h2 style="margin-top:-3px">» <a href="news.shtml" >新闻中心</a></h2> </div>
 		<div style="float:left;margin-left:30px">
 			<div class="news_item">
+				<div class="news_date">2013.2</div>
+				<div class="news_title"><a href="news.shtml#2013021" title="公司再次通过高新技术企业认定">公司再次通过高新技术企业认定</a></div>
+			</div>
+			<div class="news_item">
+				<div class="news_date">2012.12</div>
+				<div class="news_title"><a href="news.shtml#2012121" title="推出基于TD-LTE技术的宽带多媒体指挥调度系统">推出基于TD-LTE技术的宽带多媒体...</a></div>
+			</div>
+			<div class="news_item">
+				<div class="news_date">2012.10</div>
+				<div class="news_title"><a href="news.shtml#2012101" title="公司承建 “中国地震背景场探测（卫星通信系统 ）项目”">公司承建 “中国地震背景场探测...”</a></div>
+			</div>	
+		</div>
+		<div style="float:left;margin-left:30px">
+			<div class="news_item">
+				<div class="news_date">2012.6</div>
+				<div class="news_title"><a href="news.shtml#2012081" title="关于冒用我公司名义进行电话充值卡虚假诈骗宣传声明！">关于冒用我公司名义进行电话充值卡...</a></div>
+			</div>
+			<div class="news_item">
 				<div class="news_date">2012.6</div>
 				<div class="news_title"><a href="news.shtml#2012061" title="四维通联同中国电信北京分公司达成合作协议">四维通联同中国电信北京分公司...</a></div>
 			</div>
 			<div class="news_item">
 				<div class="news_date">2012.2</div>
 				<div class="news_title"><a href="news.shtml#2012021">新版网站上线</a></div>
-			</div>
+			</div>	
+		</div>
+		<div style="float:left;margin-left:30px">
 			<div class="news_item">
 				<div class="news_date">2012.2</div>
 				<div class="news_title"><a href="news.shtml#2012022">单卡紧凑型便携视频直播终端上市</a></div>
 			</div>
-		</div>
-		<div style="float:left;margin-left:30px">
 			<div class="news_item">
 				<div class="news_date">2012.1</div>
 				<div class="news_title"><a href="news.shtml#2012011">3G视频终端通过TD-LTE测试</a></div>
@@ -33,24 +51,6 @@
 			<div class="news_item">
 				<div class="news_date">2011.10</div>
 				<div class="news_title"><a href="news.shtml#2011101">推出3G/OFDM双模终端</a></div>
-			</div>
-			<div class="news_item">
-				<div class="news_date">2011.9</div>
-				<div class="news_title"><a href="news.shtml#2011091">发布手机爆料软件</a></div>
-			</div>
-		</div>
-		<div style="float:left;margin-left:30px">
-			<div class="news_item">
-				<div class="news_date">2011.8</div>
-				<div class="news_title"><a href="news.shtml#2011081">3G多卡直播终端上市销售</a></div>
-			</div>
-			<div class="news_item">
-				<div class="news_date">2011.7</div>
-				<div class="news_title"><a href="news.shtml#2011071">短波矩阵开关设备定型</a></div>
-			</div>
-			<div class="news_item">
-				<div class="news_date">2011.6</div>
-				<div class="news_title"><a href="news.shtml#2011061">山西某地在线工地监控项目圆满完成</a></div>
 			</div>
 		</div>
 	</div>
